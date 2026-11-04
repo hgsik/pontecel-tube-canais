@@ -1,6 +1,6 @@
 {
-  "versao": 2,
-  "atualizado": "2026-11-03",
+  "versao": 3,
+  "atualizado": "2026-11-04",
   "perfis": {
     "crianca": [
       "desenhos",
@@ -18,6 +18,7 @@
     "adulto": [
       "jornalismo",
       "sertanejo",
+      "gospel",
       "culinaria",
       "carros",
       "esportes",
@@ -240,6 +241,36 @@
         {
           "id": "UCWaTrJco84jSu5JWSak57KQ",
           "nome": "Marília Mendonça"
+        },
+        {
+          "id": "UCL_4PX1WmsISTkrHHA0j6qA",
+          "nome": "Gian & Giovani"
+        },
+        {
+          "id": "UCZ9yRhwZxdiz6kF09quMZHQ",
+          "nome": "Daniel"
+        }
+      ]
+    },
+    {
+      "id": "gospel",
+      "nome": "Gospel",
+      "canais": [
+        {
+          "id": "UCbVwJCxsVbmaP1PFmbGQDeQ",
+          "nome": "MK Music"
+        },
+        {
+          "id": "UCDrzMTEmg_K2F7E4vsgRZqg",
+          "nome": "Você Adora"
+        },
+        {
+          "id": "UCj0LhRmp7stN1XdAEKs4uyw",
+          "nome": "Damares"
+        },
+        {
+          "id": "UCJe1sIgWH-WX5cRHegroOow",
+          "nome": "Preto no Branco"
         }
       ]
     },
