@@ -1,0 +1,33 @@
+name: Espelho dos feeds
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # a cada hora
+  workflow_dispatch:
+  push:
+    paths: ["tube.json"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: espelho
+  cancel-in-progress: false
+
+jobs:
+  espelho:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python espelho.py
+      - name: Gravar as cópias novas
+        run: |
+          git config user.name "pontecel-espelho"
+          git config user.email "pontecel-espelho@users.noreply.github.com"
+          git add -A espelho
+          if git diff --cached --quiet; then echo "nada mudou"; exit 0; fi
+          git commit -m "Espelho dos feeds $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

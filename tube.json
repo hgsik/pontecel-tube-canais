@@ -1,0 +1,88 @@
+{
+  "versao": 1,
+  "atualizado": "2026-11-03",
+  "perfis": {
+    "crianca": ["desenhos", "musicas-infantis", "educativo"],
+    "adolescente": ["games", "musica", "esportes", "humor", "ciencia", "shorts"],
+    "adulto": ["jornalismo", "sertanejo", "culinaria", "carros", "esportes", "documentarios", "cinema", "musica", "humor", "ciencia", "games", "shorts"]
+  },
+  "categorias": [
+    { "id": "desenhos", "nome": "Desenhos", "canais": [
+      { "id": "UCBAb_DK4GYZqZR9MFA7y2Xg", "nome": "Galinha Pintadinha" },
+      { "id": "UCV4XcEqBswMCryorV_gNENw", "nome": "Turma da Mônica" },
+      { "id": "UCzXS0VeKyJu3GS2CGllhz7g", "nome": "Peppa Pig Português" },
+      { "id": "UC38SDPdAOryLdgnNs9qZgug", "nome": "Masha e o Urso" } ] },
+    { "id": "musicas-infantis", "nome": "Músicas infantis", "canais": [
+      { "id": "UC0cGVh96osM7yqMu0ENSKKQ", "nome": "Mundo Bita" },
+      { "id": "UCGs6qb1ohFhDzeHbYeJlsAA", "nome": "Palavra Cantada" },
+      { "id": "UCZcsG6kUpOLQZZpTMSAernw", "nome": "Bob Zoom" },
+      { "id": "UCe-BBpsnL89BMr6WbvBQ9dw", "nome": "Patati Patatá" } ] },
+    { "id": "educativo", "nome": "Educativo", "canais": [
+      { "id": "UCtXVrEFdvdS5Gof7XWYw-CA", "nome": "Quintal da Cultura" },
+      { "id": "UC-adUJnjdrRnRlOJGoDtTqw", "nome": "O Show da Luna!" },
+      { "id": "UCKHhA5hN2UohhFDfNXB_cvQ", "nome": "Manual do Mundo" } ] },
+    { "id": "games", "nome": "Games", "canais": [
+      { "id": "UCIPA6iWNaoetaa1T46RkzXw", "nome": "AuthenticGames" },
+      { "id": "UCIXguhHCl8eDTkXpEuiGPUA", "nome": "Jazzghost" },
+      { "id": "UCbTVTephX30ZhQF5zwFppBg", "nome": "RezendeEvil" },
+      { "id": "UC1pAUT1bL7fV9VBp3A6F8FQ", "nome": "Gemaplys" } ] },
+    { "id": "musica", "nome": "Música", "canais": [
+      { "id": "UC6rwiIxv0w2fbmmr66wl1rA", "nome": "Luan Santana" },
+      { "id": "UC4FK6Ki675LB-rkbD8O7ayg", "nome": "Ivete Sangalo" },
+      { "id": "UCy9mF52-GP9NqOmfR0g9ukg", "nome": "Vitor Kley" },
+      { "id": "UCvFA2VabfW8wnVJXB3hm1Bg", "nome": "Melim" } ] },
+    { "id": "esportes", "nome": "Esportes", "canais": [
+      { "id": "UCZiYbVptd3PVPf4f6eR6UaQ", "nome": "CazéTV" },
+      { "id": "UCs-6sCz2LJm1PrWQN4ErsPw", "nome": "TNT Sports Brasil" },
+      { "id": "UCw5-xj3AKqEizC7MvHaIPqA", "nome": "ESPN Brasil" } ] },
+    { "id": "humor", "nome": "Humor", "canais": [
+      { "id": "UC3KQ5GWANYF8lChqjZpXsQw", "nome": "Whindersson Nunes" },
+      { "id": "UC-PjJT0RVURj_L6D8D3WIww", "nome": "Castro Brothers" } ] },
+    { "id": "ciencia", "nome": "Ciência", "canais": [
+      { "id": "UCn9Erjy00mpnWeLnRqhsA1g", "nome": "Ciência Todo Dia" },
+      { "id": "UCKHhA5hN2UohhFDfNXB_cvQ", "nome": "Manual do Mundo" },
+      { "id": "UClu474HMt895mVxZdlIHXEA", "nome": "Nerdologia" },
+      { "id": "UC_Fk7hHbl7vv_7K8tYqJd5A", "nome": "SpaceToday" } ] },
+    { "id": "jornalismo", "nome": "Jornalismo", "canais": [
+      { "id": "UCP391YRAjSOdM_bwievgaZA", "nome": "Jovem Pan News" },
+      { "id": "UCoa-D_VfMkFrCYodrOC9-mA", "nome": "Band Jornalismo" },
+      { "id": "UC376n347Ob5Lwzq2WGzF1AA", "nome": "SBT News" },
+      { "id": "UCuiLR4p6wQ3xLEm15pEn1Xw", "nome": "Record News" },
+      { "id": "UCjOJvvYe6tyEHY21OD33h8A", "nome": "TV Cultura" } ] },
+    { "id": "sertanejo", "nome": "Sertanejo", "canais": [
+      { "id": "UCL64gn1KZ1C-u87BGQv3b6w", "nome": "Jorge & Mateus" },
+      { "id": "UCfLTxnQboSLcoSakgONmukQ", "nome": "Henrique e Juliano" },
+      { "id": "UCRD1ypvmK7e_05Rtu9zHOfQ", "nome": "Ana Castela" },
+      { "id": "UCXooz9whNJZBRTHi9AqdjPw", "nome": "Gusttavo Lima" },
+      { "id": "UCWaTrJco84jSu5JWSak57KQ", "nome": "Marília Mendonça" } ] },
+    { "id": "culinaria", "nome": "Culinária", "canais": [
+      { "id": "UC994jjA_F4h1kBu_TtrPeNA", "nome": "Ana Maria Braga" },
+      { "id": "UCBuP6FLScLbgTEUWP0wmI3A", "nome": "TudoGostoso" },
+      { "id": "UCyWjZRvcqvzc8Fkd9czV9vQ", "nome": "Paola Carosella" },
+      { "id": "UCfSPnAlDUTiIOAvNOI-a4yQ", "nome": "Panelinha" } ] },
+    { "id": "carros", "nome": "Carros", "canais": [
+      { "id": "UCWYuQ9_2boHBxm59n6lSzDA", "nome": "Autoesporte" },
+      { "id": "UCtQkTFBiW3NiUlbvYDeImqg", "nome": "Accelerated" },
+      { "id": "UCIvQJmPaDR2lMDDNhb4--bA", "nome": "Quatro Rodas" },
+      { "id": "UCz2Bb7YdduN4x7qN9oFrJjQ", "nome": "Webmotors" } ] },
+    { "id": "documentarios", "nome": "Documentários", "canais": [
+      { "id": "UCthbIFAxbXTTQEC7EcQvP1Q", "nome": "BBC News Brasil" },
+      { "id": "UCaXccGl0eQT2DnP3VAH40DQ", "nome": "História em Meia Hora" },
+      { "id": "UCQRPDZMSwXFEDS67uc7kIdg", "nome": "Buenas Ideias" } ] },
+    { "id": "cinema", "nome": "Cinema", "canais": [
+      { "id": "UC8vv-e4vmZqVYp72X8nMQ9w", "nome": "Omelete" },
+      { "id": "UC9NXpIA01HVRhYgcEbs80Nw", "nome": "Sony Pictures Brasil" },
+      { "id": "UCyPMDE1Y-8wLYOf7qvlXMmA", "nome": "Universal Pictures Brasil" },
+      { "id": "UCc1l5mTmAv2GC_PXrBpqyKQ", "nome": "Netflix Brasil" },
+      { "id": "UCuNjvqjTzw9LcD9PVpTVWRA", "nome": "Prime Video Brasil" } ] },
+    { "id": "shorts", "nome": "Shorts", "shorts": true, "canais": [
+      { "id": "UCKHhA5hN2UohhFDfNXB_cvQ", "nome": "Manual do Mundo" },
+      { "id": "UC3KQ5GWANYF8lChqjZpXsQw", "nome": "Whindersson Nunes" },
+      { "id": "UCZiYbVptd3PVPf4f6eR6UaQ", "nome": "CazéTV" },
+      { "id": "UCn9Erjy00mpnWeLnRqhsA1g", "nome": "Ciência Todo Dia" },
+      { "id": "UCBuP6FLScLbgTEUWP0wmI3A", "nome": "TudoGostoso" },
+      { "id": "UCtQkTFBiW3NiUlbvYDeImqg", "nome": "Accelerated" },
+      { "id": "UCL64gn1KZ1C-u87BGQv3b6w", "nome": "Jorge & Mateus" },
+      { "id": "UCIPA6iWNaoetaa1T46RkzXw", "nome": "AuthenticGames" } ] }
+  ]
+}
