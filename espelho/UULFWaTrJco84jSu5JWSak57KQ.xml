@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=UULFWaTrJco84jSu5JWSak57KQ"/>
+ <id>yt:playlist:UULFWaTrJco84jSu5JWSak57KQ</id>
+ <yt:playlistId>UULFWaTrJco84jSu5JWSak57KQ</yt:playlistId>
+ <yt:channelId>UCWaTrJco84jSu5JWSak57KQ</yt:channelId>
+ <title>Videos</title>
+ <author>
+  <name>mariliamendonca</name>
+  <uri>https://www.youtube.com/channel/UCWaTrJco84jSu5JWSak57KQ</uri>
+ </author>
+ <published>2021-10-13T07:10:08+00:00</published>
+ <entry>
+  <id>yt:video:oMWXAmfY6x8</id>
+  <yt:videoId>oMWXAmfY6x8</yt:videoId>
+  <yt:channelId>UCWaTrJco84jSu5JWSak57KQ</yt:channelId>
+  <title>Mari dancando</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=oMWXAmfY6x8"/>
+  <author>
+   <name>mariliamendonca</name>
+   <uri>https://www.youtube.com/channel/UCWaTrJco84jSu5JWSak57KQ</uri>
+  </author>
+  <published>2008-06-14T04:38:45+00:00</published>
+  <updated>2026-10-05T15:01:46+00:00</updated>
+  <media:group>
+   <media:title>Mari dancando</media:title>
+   <media:content url="https://www.youtube.com/v/oMWXAmfY6x8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/oMWXAmfY6x8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>muito linda!</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="848"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

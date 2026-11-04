@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=UULFuNjvqjTzw9LcD9PVpTVWRA"/>
+ <id>yt:playlist:UULFuNjvqjTzw9LcD9PVpTVWRA</id>
+ <yt:playlistId>UULFuNjvqjTzw9LcD9PVpTVWRA</yt:playlistId>
+ <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+ <title>Videos</title>
+ <author>
+  <name>Prime Video Brasil</name>
+  <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+ </author>
+ <published>2021-10-13T07:10:08+00:00</published>
+ <entry>
+  <id>yt:video:PV7XAG6y-zE</id>
+  <yt:videoId>PV7XAG6y-zE</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>besties, mais uma versão da Rainha desbloqueada: irmã mais velha fofa🤏🥹 quem amou? ☝️</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/PV7XAG6y-zE"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-11-03T22:30:29+00:00</published>
+  <updated>2026-11-03T22:35:20+00:00</updated>
+  <media:group>
+   <media:title>besties, mais uma versão da Rainha desbloqueada: irmã mais velha fofa🤏🥹 quem amou? ☝️</media:title>
+   <media:content url="https://www.youtube.com/v/PV7XAG6y-zE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PV7XAG6y-zE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>besties, mais uma versão da Rainha desbloqueada: irmã mais velha fofa🤏🥹 quem amou? ☝️ #MariliaSentimentoLouco #MariliaMendonça #Irmãos #JoaoGustavo #DocumentarioMarilia #FamiliaMariliaMendonça</media:description>
+   <media:community>
+    <media:starRating count="36" average="5.00" min="1" max="5"/>
+    <media:statistics views="1856"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rJ1RJj51WlA</id>
+  <yt:videoId>rJ1RJj51WlA</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Apocalipse Z: Novo Mundo | A Nova Realidade | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rJ1RJj51WlA"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-11-02T20:00:29+00:00</published>
+  <updated>2026-11-02T20:02:03+00:00</updated>
+  <media:group>
+   <media:title>Apocalipse Z: Novo Mundo | A Nova Realidade | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/rJ1RJj51WlA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rJ1RJj51WlA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Não existem zonas seguras: adapte-se ou seja devorado.
+Apocalipse Z: Novo Mundo, disponível no Prime Video. #ApocalypseZ</media:description>
+   <media:community>
+    <media:starRating count="128" average="5.00" min="1" max="5"/>
+    <media:statistics views="6792"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ueMeGOgZUiU</id>
+  <yt:videoId>ueMeGOgZUiU</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Missão Resgate de Natal | Trailer Oficial | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ueMeGOgZUiU"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-11-02T14:00:02+00:00</published>
+  <updated>2026-11-03T13:23:41+00:00</updated>
+  <media:group>
+   <media:title>Missão Resgate de Natal | Trailer Oficial | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/ueMeGOgZUiU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ueMeGOgZUiU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>O travesso encontra o bonzinho. #MissãoResgateDeNatal estreia dia 2 de dezembro.</media:description>
+   <media:community>
+    <media:starRating count="1749" average="5.00" min="1" max="5"/>
+    <media:statistics views="68783"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_BLe2Lquwto</id>
+  <yt:videoId>_BLe2Lquwto</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Músicas do documentário | Marília Mendonça: Sentimento Louco| Prime Video.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_BLe2Lquwto"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-11-01T18:31:15+00:00</published>
+  <updated>2026-11-04T09:16:07+00:00</updated>
+  <media:group>
+   <media:title>Músicas do documentário | Marília Mendonça: Sentimento Louco| Prime Video.</media:title>
+   <media:content url="https://www.youtube.com/v/_BLe2Lquwto?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_BLe2Lquwto/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Em Marília Mendonça: Sentimento Louco, cada canção carrega uma história, uma emoção e um pedacinho da trajetória da Rainha da Sofrência. 
+
+Relembre algumas das músicas que marcaram sua carreira e que fazem parte desse documentário especial. Porque quando o assunto é Marília Mendonça, sempre tem uma música que fala pela gente. ❤️ 
+
+Assista a Marília Mendonça: Sentimento Louco, disponível no Prime Video. 
+
+Músicas presentes na PlayList 
+
+Supera | EP01 |  
+
+Saudade fingida | EP01 |  
+
+Vai ser trouxa pra lá | EP01 |  
+
+Lua | EP01 |  
+
+Minha herança | EP01 | 
+
+Quero você do jeito que quiser | EP01  
+
+Infiel | EP02 |  
+
+Hoje Somos Só Metade | EP02 |  
+
+Esse Cara Aqui Do Lado | EP02 |  
+
+Desculpe mas eu sou fiel | EP02 | 
+
+Um Anjo do Céu | EP02 |  
+
+Coração Selvagem | EP02 |  
+
+Impasse | EP02 | 
+
+Folgado | EP02 |  
+
+Amante não tem lar | EP02 |  
+
+Nem foi e já voltou | EP02 | 
+
+Serenata | EP03 |  
+
+Troca de calçada | EP03 | 
+
+A culpa é dele | EP03 |  
+
+De quem é a culpa | EP03 |  
+
+ 
+#MariliaSentimentoLouco #DocumentarioMariliaMendonça #DocumentarioMarilia #MariliaMendonca #SentimentoLouco #PrimeVideo #RainhaDaSofrencia #MusicaSertaneja</media:description>
+   <media:community>
+    <media:starRating count="179" average="5.00" min="1" max="5"/>
+    <media:statistics views="16075"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Wr_63LfIedI</id>
+  <yt:videoId>Wr_63LfIedI</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Atraídos Pelo Destino | Reagindo às cenas mais assistidas | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Wr_63LfIedI"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-11-01T18:00:53+00:00</published>
+  <updated>2026-11-04T09:47:00+00:00</updated>
+  <media:group>
+   <media:title>Atraídos Pelo Destino | Reagindo às cenas mais assistidas | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/Wr_63LfIedI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Wr_63LfIedI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Elenco reagindo às cenas mais assistidas de #AtraídosPeloDestino</media:description>
+   <media:community>
+    <media:starRating count="88" average="5.00" min="1" max="5"/>
+    <media:statistics views="4694"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mRDrxTN-Rvk</id>
+  <yt:videoId>mRDrxTN-Rvk</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Apocalipse Z: Novo Mundo | A Missão | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=mRDrxTN-Rvk"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-31T18:00:35+00:00</published>
+  <updated>2026-11-01T07:10:56+00:00</updated>
+  <media:group>
+   <media:title>Apocalipse Z: Novo Mundo | A Missão | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/mRDrxTN-Rvk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mRDrxTN-Rvk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A missão começa. Apocalipse Z: Novo Mundo já está disponível no Prime Video. #ApocalipsisZ #ApocalypseZ</media:description>
+   <media:community>
+    <media:starRating count="179" average="5.00" min="1" max="5"/>
+    <media:statistics views="13063"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eVlf5JZkqzo</id>
+  <yt:videoId>eVlf5JZkqzo</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Masterplan | Stanley Tucci comenta cenas favoritas | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eVlf5JZkqzo"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-29T23:00:57+00:00</published>
+  <updated>2026-11-02T00:35:57+00:00</updated>
+  <media:group>
+   <media:title>Masterplan | Stanley Tucci comenta cenas favoritas | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/eVlf5JZkqzo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eVlf5JZkqzo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Reunimos as cenas favoritas de Stanley Tucci em Masterplan pra ele comentar com você. Desde seus momentos com Simona Tabasco e Victor Belmondo até o roubo da Mona Lisa, ele conta tudo.
+
+Não é apenas um plano, é um MASTERPLAN. Stanley Tucci, Simona Tabasco e Victor Belmondo estão prontos para realizar o roubo do século. O alvo? A Mona Lisa. O plano? Impecável. A família? Um desastre total.
+
+Assista a Masterplan no Prime Video.
+
+Masterplan no Prime Video: www.primevideo.com/region/na/detail/0K2MF62NJL76Q54YS0KEABBDVZ
+
+
+INSCREVA-SE: www.youtube.com/@PrimeVideobr
+
+Acompanhe mais do Prime Video:
+
+TikTok: www.tiktok.com/@primevideobr
+
+Instagram: www.instagram.com/primevideobr/
+
+
+O Prime Video oferece milhares de filmes e séries de sucesso, incluindo produções originais premiadas da Amazon, além de esportes ao vivo e muito mais. Tudo incluso na sua assinatura Prime!</media:description>
+   <media:community>
+    <media:starRating count="84" average="5.00" min="1" max="5"/>
+    <media:statistics views="5645"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nV1Tj8Bzf7g</id>
+  <yt:videoId>nV1Tj8Bzf7g</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Os Arquivos Flanagan | Carrie, A Estranha | 1ª Temporada | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nV1Tj8Bzf7g"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-28T20:00:32+00:00</published>
+  <updated>2026-11-02T00:40:43+00:00</updated>
+  <media:group>
+   <media:title>Os Arquivos Flanagan | Carrie, A Estranha | 1ª Temporada | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/nV1Tj8Bzf7g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nV1Tj8Bzf7g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Brincamos de &quot;Isso ou Aquilo&quot; com o diretor de Carrie, a Estranha: Mike Flanagan.
+
+Assista a Carrie, a Estranha no Prime Video: www.primevideo.com/region/na/detail/0QHLPZ8O1W9VTEDNG03QCGAPI2
+
+INSCREVA-SE: www.youtube.com/@PrimeVideoBR
+
+Sobre Carrie, a Estranha: Após a morte repentina e prematura de seu pai lançá-la no ambiente implacável de uma escola pública, Carrie precisa enfrentar um escândalo de bullying que viraliza e abala toda a sua comunidade. Em meio à pressão incessante e à crueldade casual típicas da era das redes sociais, ela vê surgirem misteriosos poderes telecinéticos, que despertam paralelamente à sua adolescência.
+
+#CarrieAEstranha</media:description>
+   <media:community>
+    <media:starRating count="100" average="5.00" min="1" max="5"/>
+    <media:statistics views="5376"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:NCh8xVrcppk</id>
+  <yt:videoId>NCh8xVrcppk</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Ali G: Ken é eu? | Trailer Oficial | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=NCh8xVrcppk"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-28T18:13:44+00:00</published>
+  <updated>2026-11-02T00:38:29+00:00</updated>
+  <media:group>
+   <media:title>Ali G: Ken é eu? | Trailer Oficial | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/NCh8xVrcppk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/NCh8xVrcppk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ali G: Ken é eu? já está disponível no Prime Video. Booyakasha! #AliGWhoIzI</media:description>
+   <media:community>
+    <media:starRating count="1280" average="5.00" min="1" max="5"/>
+    <media:statistics views="95992"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jsTqRs_FZEw</id>
+  <yt:videoId>jsTqRs_FZEw</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>DVD Realidade - Cenas Inéditas  | Marília Mendonça: Sentimento Louco| Prime Video.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jsTqRs_FZEw"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-27T23:30:42+00:00</published>
+  <updated>2026-10-31T04:30:52+00:00</updated>
+  <media:group>
+   <media:title>DVD Realidade - Cenas Inéditas  | Marília Mendonça: Sentimento Louco| Prime Video.</media:title>
+   <media:content url="https://www.youtube.com/v/jsTqRs_FZEw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jsTqRs_FZEw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Manaus viveu um momento inesquecível com a Marília Mendonça! 🎤✨  
+
+Confira cenas exclusivas do DVD Realidade que emocionou os fãs, e reviva um pouco da energia, do talento e da conexão única entre a Rainha da Sofrência e seu público. 
+
+Assista a Marília Mendonça: Sentimento Louco, e veja mais momentos especiais e conheça histórias inéditas da Marília Mendonça. 
+
+O documentário está disponível no Prime Video! 🎬💙 
+
+#MariliaMendonça #MariliaSentimentoLouco #PrimeVideo #Manaus #RainhaDaSofrência #DVDRealidade #MariliaDVDRealidade</media:description>
+   <media:community>
+    <media:starRating count="254" average="5.00" min="1" max="5"/>
+    <media:statistics views="12397"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4cNYbircUqo</id>
+  <yt:videoId>4cNYbircUqo</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Primeiro Beijo de Vassago e Stolas | Helluva Boss | 3ª Temporada | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4cNYbircUqo"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-27T20:00:33+00:00</published>
+  <updated>2026-11-03T07:28:09+00:00</updated>
+  <media:group>
+   <media:title>Primeiro Beijo de Vassago e Stolas | Helluva Boss | 3ª Temporada | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/4cNYbircUqo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4cNYbircUqo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>O jeito que o Vassago mexe com o Stolas 🥹 A 3ª temporada de #HelluvaBoss já está disponível!
+
+#hellaverse #vivziepop #vassago #harveyguillen #stolas #brycepinkham</media:description>
+   <media:community>
+    <media:starRating count="605" average="5.00" min="1" max="5"/>
+    <media:statistics views="29124"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:y1RRBcDviTQ</id>
+  <yt:videoId>y1RRBcDviTQ</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Blitzø descobre que Stolas tem um encontro | Helluva Boss | 3ª temporada | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=y1RRBcDviTQ"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-26T00:00:33+00:00</published>
+  <updated>2026-10-29T03:27:52+00:00</updated>
+  <media:group>
+   <media:title>Blitzø descobre que Stolas tem um encontro | Helluva Boss | 3ª temporada | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/y1RRBcDviTQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/y1RRBcDviTQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>&quot;Compromisso&quot; é uma forma de chamar isso... #HelluvaBoss já está disponível no Prime Video!
+
+#hellaverse #vivziepop #blitzo #brandonrogers #stolas #brycepinkham</media:description>
+   <media:community>
+    <media:starRating count="237" average="5.00" min="1" max="5"/>
+    <media:statistics views="13455"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kLqQ89wECxE</id>
+  <yt:videoId>kLqQ89wECxE</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Atraídos Pelo Destino | Sem Spoilers | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kLqQ89wECxE"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-25T12:01:01+00:00</published>
+  <updated>2026-10-29T03:31:11+00:00</updated>
+  <media:group>
+   <media:title>Atraídos Pelo Destino | Sem Spoilers | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/kLqQ89wECxE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kLqQ89wECxE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#AtraídosPeloDestino sem spoilers.</media:description>
+   <media:community>
+    <media:starRating count="43" average="5.00" min="1" max="5"/>
+    <media:statistics views="6879"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JlVDBz8_Abw</id>
+  <yt:videoId>JlVDBz8_Abw</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Stolas experimenta um aplicativo de namoro | Helluva Boss | 3ª temporada | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JlVDBz8_Abw"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-25T00:00:41+00:00</published>
+  <updated>2026-10-27T23:26:53+00:00</updated>
+  <media:group>
+   <media:title>Stolas experimenta um aplicativo de namoro | Helluva Boss | 3ª temporada | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/JlVDBz8_Abw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JlVDBz8_Abw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>É isso aí, Stolas, tipo um delivery de comida 😅 #HelluvaBoss já está disponível no Prime Video!
+
+#Hellaverse #VivziePop #Loona #EricaLindbeck #Stolas #BrycePinkham</media:description>
+   <media:community>
+    <media:starRating count="236" average="5.00" min="1" max="5"/>
+    <media:statistics views="10428"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:r7g4sfSmJzs</id>
+  <yt:videoId>r7g4sfSmJzs</yt:videoId>
+  <yt:channelId>UCuNjvqjTzw9LcD9PVpTVWRA</yt:channelId>
+  <title>Moxxie recebe uma grande notícia | Helluva Boss | 3ª temporada | Prime Video</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=r7g4sfSmJzs"/>
+  <author>
+   <name>Prime Video Brasil</name>
+   <uri>https://www.youtube.com/channel/UCuNjvqjTzw9LcD9PVpTVWRA</uri>
+  </author>
+  <published>2026-10-24T00:00:36+00:00</published>
+  <updated>2026-10-27T03:43:32+00:00</updated>
+  <media:group>
+   <media:title>Moxxie recebe uma grande notícia | Helluva Boss | 3ª temporada | Prime Video</media:title>
+   <media:content url="https://www.youtube.com/v/r7g4sfSmJzs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/r7g4sfSmJzs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A melhor reação de todos os tempos 🥹❤️ #HelluvaBoss já está disponível no Prime Video!
+
+#hellaverse #vivziepop #moxxie #richardstevenhorvitz #millie #viviannixon</media:description>
+   <media:community>
+    <media:starRating count="376" average="5.00" min="1" max="5"/>
+    <media:statistics views="13655"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
