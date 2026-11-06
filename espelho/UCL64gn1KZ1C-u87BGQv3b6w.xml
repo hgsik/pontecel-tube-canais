@@ -11,6 +11,29 @@
  </author>
  <published>2008-07-29T13:24:27+00:00</published>
  <entry>
+  <id>yt:video:pYN6TAGyXjM</id>
+  <yt:videoId>pYN6TAGyXjM</yt:videoId>
+  <yt:channelId>UCL64gn1KZ1C-u87BGQv3b6w</yt:channelId>
+  <title>Sextou do jeito que a gente gosta… escutando Primavera! Bora dar o play e deixar no repeat!</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/pYN6TAGyXjM"/>
+  <author>
+   <name>Jorge &amp; Mateus Oficial</name>
+   <uri>https://www.youtube.com/channel/UCL64gn1KZ1C-u87BGQv3b6w</uri>
+  </author>
+  <published>2026-11-06T16:22:30+00:00</published>
+  <updated>2026-11-06T16:23:57+00:00</updated>
+  <media:group>
+   <media:title>Sextou do jeito que a gente gosta… escutando Primavera! Bora dar o play e deixar no repeat!</media:title>
+   <media:content url="https://www.youtube.com/v/pYN6TAGyXjM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pYN6TAGyXjM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="55" average="5.00" min="1" max="5"/>
+    <media:statistics views="558"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:HwXcBei4gmg</id>
   <yt:videoId>HwXcBei4gmg</yt:videoId>
   <yt:channelId>UCL64gn1KZ1C-u87BGQv3b6w</yt:channelId>
@@ -28,8 +51,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/HwXcBei4gmg/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="385" average="5.00" min="1" max="5"/>
-    <media:statistics views="8180"/>
+    <media:starRating count="386" average="5.00" min="1" max="5"/>
+    <media:statistics views="8193"/>
    </media:community>
   </media:group>
  </entry>
@@ -51,8 +74,8 @@
    <media:thumbnail url="https://i2.ytimg.com/vi/iZmzqMlnwSo/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="852" average="5.00" min="1" max="5"/>
-    <media:statistics views="14201"/>
+    <media:starRating count="854" average="5.00" min="1" max="5"/>
+    <media:statistics views="14236"/>
    </media:community>
   </media:group>
  </entry>
@@ -138,8 +161,8 @@ SOM LIVRE
 A&amp;R: Tony Vieira, Alexandre Fernandes, Lucas Nunes
 MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:community>
-    <media:starRating count="11824" average="5.00" min="1" max="5"/>
-    <media:statistics views="9768357"/>
+    <media:starRating count="11911" average="5.00" min="1" max="5"/>
+    <media:statistics views="9803393"/>
    </media:community>
   </media:group>
  </entry>
@@ -161,8 +184,8 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:thumbnail url="https://i3.ytimg.com/vi/no9h3rhitpY/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="335" average="5.00" min="1" max="5"/>
-    <media:statistics views="7948"/>
+    <media:starRating count="336" average="5.00" min="1" max="5"/>
+    <media:statistics views="7961"/>
    </media:community>
   </media:group>
  </entry>
@@ -184,8 +207,8 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:thumbnail url="https://i1.ytimg.com/vi/XDm63pZVoGE/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="489" average="5.00" min="1" max="5"/>
-    <media:statistics views="12956"/>
+    <media:starRating count="490" average="5.00" min="1" max="5"/>
+    <media:statistics views="12964"/>
    </media:community>
   </media:group>
  </entry>
@@ -208,7 +231,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="603" average="5.00" min="1" max="5"/>
-    <media:statistics views="17025"/>
+    <media:statistics views="17033"/>
    </media:community>
   </media:group>
  </entry>
@@ -230,8 +253,8 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:thumbnail url="https://i2.ytimg.com/vi/1eDZ4SUsimk/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="676" average="5.00" min="1" max="5"/>
-    <media:statistics views="11526"/>
+    <media:starRating count="677" average="5.00" min="1" max="5"/>
+    <media:statistics views="11531"/>
    </media:community>
   </media:group>
  </entry>
@@ -254,7 +277,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="351" average="5.00" min="1" max="5"/>
-    <media:statistics views="8914"/>
+    <media:statistics views="8917"/>
    </media:community>
   </media:group>
  </entry>
@@ -276,8 +299,8 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:thumbnail url="https://i4.ytimg.com/vi/7uIdBxC_tWE/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="508" average="5.00" min="1" max="5"/>
-    <media:statistics views="10090"/>
+    <media:starRating count="509" average="5.00" min="1" max="5"/>
+    <media:statistics views="10094"/>
    </media:community>
   </media:group>
  </entry>
@@ -299,8 +322,8 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:thumbnail url="https://i2.ytimg.com/vi/yxPDRBa527g/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1687" average="5.00" min="1" max="5"/>
-    <media:statistics views="31731"/>
+    <media:starRating count="1690" average="5.00" min="1" max="5"/>
+    <media:statistics views="31743"/>
    </media:community>
   </media:group>
  </entry>
@@ -322,8 +345,8 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:thumbnail url="https://i3.ytimg.com/vi/reMzwe8kZko/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="956" average="5.00" min="1" max="5"/>
-    <media:statistics views="18497"/>
+    <media:starRating count="957" average="5.00" min="1" max="5"/>
+    <media:statistics views="18504"/>
    </media:community>
   </media:group>
  </entry>
@@ -345,8 +368,8 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:thumbnail url="https://i3.ytimg.com/vi/nHG8ikm7aZM/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="600" average="5.00" min="1" max="5"/>
-    <media:statistics views="16673"/>
+    <media:starRating count="601" average="5.00" min="1" max="5"/>
+    <media:statistics views="16682"/>
    </media:community>
   </media:group>
  </entry>
@@ -369,7 +392,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="756" average="5.00" min="1" max="5"/>
-    <media:statistics views="18214"/>
+    <media:statistics views="18225"/>
    </media:community>
   </media:group>
  </entry>
@@ -398,31 +421,8 @@ Instagram: https://www.instagram.com/jorgeemateus/
 Twitter: https://twitter.com/jorgeemateus
 TikTok: https://www.tiktok.com/@jorgeemateus</media:description>
    <media:community>
-    <media:starRating count="3414" average="5.00" min="1" max="5"/>
-    <media:statistics views="680700"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:XHL8Hesbo1w</id>
-  <yt:videoId>XHL8Hesbo1w</yt:videoId>
-  <yt:channelId>UCL64gn1KZ1C-u87BGQv3b6w</yt:channelId>
-  <title>Jamais aceite menos do que você merece… #jorgeemateus #tbt</title>
-  <link rel="alternate" href="https://www.youtube.com/shorts/XHL8Hesbo1w"/>
-  <author>
-   <name>Jorge &amp; Mateus Oficial</name>
-   <uri>https://www.youtube.com/channel/UCL64gn1KZ1C-u87BGQv3b6w</uri>
-  </author>
-  <published>2026-08-13T21:42:20+00:00</published>
-  <updated>2026-10-27T20:56:47+00:00</updated>
-  <media:group>
-   <media:title>Jamais aceite menos do que você merece… #jorgeemateus #tbt</media:title>
-   <media:content url="https://www.youtube.com/v/XHL8Hesbo1w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/XHL8Hesbo1w/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="47" average="5.00" min="1" max="5"/>
-    <media:statistics views="510"/>
+    <media:starRating count="3431" average="5.00" min="1" max="5"/>
+    <media:statistics views="682682"/>
    </media:community>
   </media:group>
  </entry>
