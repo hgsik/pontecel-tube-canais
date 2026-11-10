@@ -11,6 +11,53 @@
  </author>
  <published>2021-10-13T07:10:08+00:00</published>
  <entry>
+  <id>yt:video:jvpDPaKoAxU</id>
+  <yt:videoId>jvpDPaKoAxU</yt:videoId>
+  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
+  <title>SERÁ QUE ENCONTRAMOS UMA DIMENSÃO ESCONDIDA DO UNIVERSO?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jvpDPaKoAxU"/>
+  <author>
+   <name>SpaceToday</name>
+   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
+  </author>
+  <published>2026-11-09T21:30:23+00:00</published>
+  <updated>2026-11-09T21:30:23+00:00</updated>
+  <media:group>
+   <media:title>SERÁ QUE ENCONTRAMOS UMA DIMENSÃO ESCONDIDA DO UNIVERSO?</media:title>
+   <media:content url="https://www.youtube.com/v/jvpDPaKoAxU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jvpDPaKoAxU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Dois pontos em um gráfico do CERN levantaram uma pergunta que parece saída da ficção científica. Será que uma colisão de partículas pode deixar pistas de uma dimensão do espaço que a gente nunca conseguiu perceber?
+
+A história começa no LHC, um anel de 27 quilômetros onde feixes de prótons circulam em sentidos opostos até colidir. Nessas colisões, quarks e glúons energéticos podem dar origem a jatos, cascatas de partículas que seguem em direções próximas. O detector CMS mede a energia e a direção dessas partículas. Com essas informações, os físicos calculam a massa que teria uma partícula da qual elas vieram.
+
+Nos dados do Run 2, dois eventos chamaram atenção. Cada um tinha quatro jatos com massa reconstruída total perto de 8 TeV. Quando os jatos foram agrupados em dois pares, a massa média dos pares ficou próxima de 2 TeV. Esse arranjo é compatível com uma sequência intrigante. Uma partícula pesada poderia ter decaído em duas mais leves, cada uma produzindo dois jatos. Colisões descritas pela física conhecida também podem gerar quatro jatos, então é preciso olhar para o conjunto dos dados.
+
+Como uma dimensão extra entra nessa história? Pense numa formiga andando sobre um fio. De longe, o fio parece uma linha. De perto, a formiga pode caminhar ao longo dele e também dar a volta. A analogia ajuda a imaginar uma direção que só se revela na escala certa. Na hipótese discutida no vídeo, essa direção se somaria às três dimensões espaciais conhecidas e ao tempo, formando um espaço-tempo de cinco dimensões.
+
+No cenário de Randall-Sundrum, essa dimensão espacial adicional teria uma geometria curvada. Em certas extensões do modelo, campos de partículas podem se propagar por ela e assumir modos diferentes, como uma corda de violão que pode vibrar de várias maneiras. Esses modos, conhecidos como excitações de Kaluza-Klein, apareceriam para nós como estados com massas diferentes. O padrão de massas seria uma forma de investigar a geometria que os produziu.
+
+É essa a hipótese que Alain Le Yaouanc e François Richard exploram ao reinterpretar os dados do CMS. Eles propõem glúons pesados com massas de 3,6 e 8,6 TeV. O candidato de 8,6 TeV seria uma possível explicação para os dois eventos extremos. O de 3,6 TeV estaria associado a outro excesso nos dados.
+
+A força estatística do sinal muda quando a análise considera toda a região pesquisada. O excesso chegou a 3,9 sigma de significância local e a 1,6 sigma de significância global. Se você procura em muitas faixas de massa, o acaso tem mais oportunidades de produzir um resultado chamativo em alguma delas.
+
+O CMS também procurou eventos semelhantes numa análise parcial do Run 3, com dados de 2024. A busca passou pela faixa de 8 TeV sem encontrar novos eventos naquela amostra. Para avançar, os físicos precisam ver o padrão reaparecer nas massas previstas e medir como as partículas candidatas decaem. Um resultado compatível em outro detector ajudaria a distinguir uma flutuação de um sinal que pode ser reproduzido.
+
+No vídeo, eu mostro como se passa de quatro jatos a uma hipótese sobre a estrutura do espaço. Os dois pontos que abriram a investigação continuam lá. Quando mais colisões entrarem na análise, é para esse mesmo gráfico que os físicos vão voltar.
+
+Estudo de Le Yaouanc e Richard  
+https://arxiv.org/abs/2610.31458
+
+Análise do CMS no Run 2  
+https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-21-010/
+
+#SpaceToday #LHC #CERN #QuintaDimensão #FísicaDePartículas</media:description>
+   <media:community>
+    <media:starRating count="3036" average="5.00" min="1" max="5"/>
+    <media:statistics views="66423"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:MVsdkBhd8H0</id>
   <yt:videoId>MVsdkBhd8H0</yt:videoId>
   <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
@@ -55,8 +102,8 @@ https://doi.org/10.3390/universe12070193
 
 #SpaceToday #Universo #Cosmologia #MateriaEscura #EnergiaEscura</media:description>
    <media:community>
-    <media:starRating count="2009" average="5.00" min="1" max="5"/>
-    <media:statistics views="43192"/>
+    <media:starRating count="2358" average="5.00" min="1" max="5"/>
+    <media:statistics views="51045"/>
    </media:community>
   </media:group>
  </entry>
@@ -71,7 +118,7 @@ https://doi.org/10.3390/universe12070193
    <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
   </author>
   <published>2026-11-05T18:09:22+00:00</published>
-  <updated>2026-11-06T11:26:44+00:00</updated>
+  <updated>2026-11-08T22:05:40+00:00</updated>
   <media:group>
    <media:title>MARTE ESTÁ VIVO? ENCONTRAMOS INDÍCIOS DE ATIVIDADE VULCÂNICA!!! E AGORA?</media:title>
    <media:content url="https://www.youtube.com/v/zqd-ugN5pjc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -119,8 +166,8 @@ O que você achou dessa descoberta incrível? Será que as encostas de Alba Mons
 
 #Marte #Astronomia #Ciencia #Espaço #Vulcoes #Astrobiologia #ExoMars #ESA #SistemaSolar #VidaEmMarte #ExploraçãoEspacial #Universo</media:description>
    <media:community>
-    <media:starRating count="2109" average="5.00" min="1" max="5"/>
-    <media:statistics views="40415"/>
+    <media:starRating count="2146" average="5.00" min="1" max="5"/>
+    <media:statistics views="41325"/>
    </media:community>
   </media:group>
  </entry>
@@ -185,8 +232,8 @@ https://arxiv.org/abs/2611.00230
 
 #Zeptoverso #CERN #LHCb #FisicaDeParticulas</media:description>
    <media:community>
-    <media:starRating count="13018" average="5.00" min="1" max="5"/>
-    <media:statistics views="591923"/>
+    <media:starRating count="13324" average="5.00" min="1" max="5"/>
+    <media:statistics views="617820"/>
    </media:community>
   </media:group>
  </entry>
@@ -228,8 +275,8 @@ O resfriamento vulcânico é temporário e não resolve o aquecimento global. En
 
 Artigo científico: https://doi.org/10.1029/2026GL122071</media:description>
    <media:community>
-    <media:starRating count="1194" average="5.00" min="1" max="5"/>
-    <media:statistics views="24698"/>
+    <media:starRating count="1205" average="5.00" min="1" max="5"/>
+    <media:statistics views="24867"/>
    </media:community>
   </media:group>
  </entry>
@@ -278,8 +325,8 @@ Inscreva-se no Space Today, curta o vídeo e ative as notificações para acompa
 
 #Starship #ArtemisIII #NASA #SpaceX #BlueOrigin #SpaceToday</media:description>
    <media:community>
-    <media:starRating count="2504" average="5.00" min="1" max="5"/>
-    <media:statistics views="54390"/>
+    <media:starRating count="2514" average="5.00" min="1" max="5"/>
+    <media:statistics views="54681"/>
    </media:community>
   </media:group>
  </entry>
@@ -324,8 +371,8 @@ Qual dessas notícias mais chamou sua atenção? Deixe seu comentário, curta o 
 
 #SpaceToday #Astronomia #JamesWebb #Betelgeuse #NASA</media:description>
    <media:community>
-    <media:starRating count="2662" average="5.00" min="1" max="5"/>
-    <media:statistics views="64631"/>
+    <media:starRating count="2691" average="5.00" min="1" max="5"/>
+    <media:statistics views="65352"/>
    </media:community>
   </media:group>
  </entry>
@@ -357,8 +404,8 @@ Em outras palavras, pedras aparentemente secas poderiam ajudar a fabricar água 
 
 Se esse processo foi comum durante a formação de planetas rochosos, ele também pode ter acontecido em mundos parecidos com a Terra ao redor de outras estrelas, ampliando as possibilidades de existirem planetas com água líquida — e talvez condições favoráveis à vida — em toda a galáxia. A origem da água na Terra continua sendo um dos maiores mistérios da ciência, mas essa hipótese mostra que os oceanos podem ter começado em meio a uma chuva de pedras incandescentes, vapor e magma, em um planeta que ainda estava nascendo.</media:description>
    <media:community>
-    <media:starRating count="1265" average="5.00" min="1" max="5"/>
-    <media:statistics views="24551"/>
+    <media:starRating count="1270" average="5.00" min="1" max="5"/>
+    <media:statistics views="24622"/>
    </media:community>
   </media:group>
  </entry>
@@ -398,8 +445,8 @@ E você: acha que a vida nasceu aqui ou veio de fora? Conta nos comentários.
 
 #OrigemDaVida #Cometas #Astrobiologia #Ciência #DivulgaçãoCientífica #Marte #Astronomia</media:description>
    <media:community>
-    <media:starRating count="1413" average="5.00" min="1" max="5"/>
-    <media:statistics views="26181"/>
+    <media:starRating count="1415" average="5.00" min="1" max="5"/>
+    <media:statistics views="26247"/>
    </media:community>
   </media:group>
  </entry>
@@ -442,8 +489,8 @@ Aperte o play para viajar conosco até Marte e desvendar os segredos dessa físi
 👇 **Gostou do conteúdo?**
 Não esqueça de deixar o seu **Like**, se **Inscrever** no canal para mais explorações espaciais semanais e ativar o sininho de notificações. Deixe nos comentários: qual outro grande mistério do Sistema Solar você quer que a gente investigue no próximo vídeo? 🚀🌌</media:description>
    <media:community>
-    <media:starRating count="2431" average="5.00" min="1" max="5"/>
-    <media:statistics views="54774"/>
+    <media:starRating count="2436" average="5.00" min="1" max="5"/>
+    <media:statistics views="54918"/>
    </media:community>
   </media:group>
  </entry>
@@ -490,8 +537,8 @@ Leia o comunicado oficial de imprensa e acesse o *Orbitviewer* para ver a órbit
 
 #Astronomia #SistemaSolar #PlanetaAnao #2026ED138 #ObservatorioRubin #Ciencia #Espaço #Universo #LSST #Física</media:description>
    <media:community>
-    <media:starRating count="2504" average="5.00" min="1" max="5"/>
-    <media:statistics views="52763"/>
+    <media:starRating count="2508" average="5.00" min="1" max="5"/>
+    <media:statistics views="52871"/>
    </media:community>
   </media:group>
  </entry>
@@ -529,8 +576,8 @@ Os resultados finais foram espetaculares. As previsões da Lumina sobre as taxas
 
 Gostou de conhecer os bastidores da evolução do Universo? Deixe seu like, inscreva-se no canal para mais conteúdos de exploração espacial e deixe nos comentários: o que você acha que o telescópio James Webb e simulações como a Lumina vão descobrir a seguir?</media:description>
    <media:community>
-    <media:starRating count="1776" average="5.00" min="1" max="5"/>
-    <media:statistics views="40174"/>
+    <media:starRating count="1782" average="5.00" min="1" max="5"/>
+    <media:statistics views="40267"/>
    </media:community>
   </media:group>
  </entry>
@@ -577,7 +624,7 @@ Esta observação sem precedentes marca um passo monumental na nossa compreensã
 #Astronomia #Astrofísica #ALMA #FormaçãoEstelar #NuvemDoDragao #EstrelasMassivas #Universo #Ciência #ESO #Espaço #DescobertasCientificas #MisteriosDoUniverso #Cosmologia #ExploraçãoEspacial #BuracosNegros #FisicaQuantica #AstronomiaBrasil #DivulgaçãoCientífica #TelescópioALMA #Astronomy #SpaceNews #Física #Educação</media:description>
    <media:community>
     <media:starRating count="1141" average="5.00" min="1" max="5"/>
-    <media:statistics views="27817"/>
+    <media:statistics views="27837"/>
    </media:community>
   </media:group>
  </entry>
@@ -621,8 +668,8 @@ Inscreva-se no Space Today e acompanhe as descobertas que estão mudando nossa c
 
 Referência: Xiao, W., Li, J., Wang, Y. e Lazarewicz, A. (2026). Fifty Years Later: Revisiting Viking 2 Seismic Signals Through InSight. AGU Advances, 7, e2026AV002319. [https://doi.org/10.1029/2026AV002319](https://doi.org/10.1029/2026AV002319).</media:description>
    <media:community>
-    <media:starRating count="1814" average="5.00" min="1" max="5"/>
-    <media:statistics views="44589"/>
+    <media:starRating count="1816" average="5.00" min="1" max="5"/>
+    <media:statistics views="44632"/>
    </media:community>
   </media:group>
  </entry>
@@ -673,57 +720,8 @@ Artigo científico: https://doi.org/10.1093/rasti/rzag069
 Texto completo: https://arxiv.org/html/2610.18966v1
 Universidade de Warwick: https://warwick.ac.uk/news/</media:description>
    <media:community>
-    <media:starRating count="4440" average="5.00" min="1" max="5"/>
-    <media:statistics views="154107"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:sj3O90g5SDg</id>
-  <yt:videoId>sj3O90g5SDg</yt:videoId>
-  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
-  <title>MICRÓBIOS NO OCEANO DE ENCÉLADO? CIENTISTAS TESTAM UMA POSSIBILIDADE INCRÍVEL!!!</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=sj3O90g5SDg"/>
-  <author>
-   <name>SpaceToday</name>
-   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
-  </author>
-  <published>2026-10-22T01:36:06+00:00</published>
-  <updated>2026-10-24T22:11:18+00:00</updated>
-  <media:group>
-   <media:title>MICRÓBIOS NO OCEANO DE ENCÉLADO? CIENTISTAS TESTAM UMA POSSIBILIDADE INCRÍVEL!!!</media:title>
-   <media:content url="https://www.youtube.com/v/sj3O90g5SDg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/sj3O90g5SDg/hqdefault.jpg" width="480" height="360"/>
-   <media:description>AS MATRÍCULAS ESTÃO ABERTAS!!! VEM ESTUDAR ASTRONOMIA COMIGO NA ACADEMY SPACE!!!
-
-https://lp.academyspace.com.br/
-
-Existe vida em Encélado? Um experimento com um microrganismo terrestre trouxe um resultado surpreendente para a busca por vida fora da Terra: ele continuou crescendo em uma mistura preparada para simular determinadas condições do oceano dessa lua de Saturno. Mas o que isso realmente significa? Estamos diante de uma pista sobre habitabilidade ou de uma evidência de vida extraterrestre? Neste vídeo, vamos separar a descoberta científica das interpretações exageradas.
-
-Encélado é um dos mundos mais fascinantes do Sistema Solar. Sob sua superfície congelada existe um oceano líquido, enquanto jatos no polo sul lançam partículas para o espaço. Esses jatos oferecem uma oportunidade extraordinária: investigar materiais provenientes de seu interior sem começar perfurando quilômetros de gelo. A sonda Cassini estudou essas partículas e deixou dados importantes para compreender a química desse ambiente distante.
-
-Agora, uma pesquisa em laboratório acrescenta uma nova perspectiva a essa investigação. Os cientistas não encontraram organismos em Encélado. Eles fizeram outra pergunta: um microrganismo conhecido conseguiria manter sua atividade em condições químicas semelhantes às propostas para determinados ambientes daquela lua? Para investigar, prepararam uma mistura com sais, bicarbonato, carbonato e rocha triturada, explorando diferentes níveis de alcalinidade.
-
-O protagonista foi a arqueia Methanothermococcus okinawensis, obtida de um ambiente hidrotermal no Pacífico, próximo ao Japão. Esse organismo produz metano e está adaptado a temperaturas elevadas. No experimento, ele foi colocado em um simulante mantido a 65 graus Celsius, com valores de pH entre 9 e 11. O objetivo não era reproduzir Encélado por completo, mas testar condições relevantes para possíveis regiões hidrotermais de seu oceano.
-
-O resultado chamou atenção: enquanto o aumento da alcalinidade prejudicou o organismo no meio convencional de cultivo, o simulante de Encélado permitiu crescimento até pH 11. Isso não significa que o ambiente fosse ideal. O crescimento ficou mais lento conforme a alcalinidade aumentou. Ainda assim, o resultado mostrou que conhecer apenas o pH não basta para prever a resposta de um organismo: a composição química da mistura também faz diferença.
-
-Mas como demonstrar que o metano estava ligado à atividade biológica? Os pesquisadores utilizaram bicarbonato marcado com carbono-13, um rastreador que permite acompanhar o caminho do carbono. Essa marca apareceu no metano produzido, ajudando a demonstrar sua origem metabólica naquele experimento. A análise da atividade dos genes também trouxe informações sobre os ajustes do organismo diante das condições testadas.
-
-Neste vídeo, você vai entender a ligação entre esse resultado, a atividade hidrotermal e a busca por vida em oceanos extraterrestres. Vamos discutir como interações entre água e rocha podem fornecer hidrogênio e por que isso interessa à astrobiologia. Certos microrganismos utilizam hidrogênio e dióxido de carbono para obter energia, liberando metano. Nesse cenário, a química pode sustentar o metabolismo sem depender diretamente da luz solar.
-
-Também vamos esclarecer os limites da descoberta. Habitabilidade não é o mesmo que vida detectada. O experimento não demonstra que organismos surgiram em Encélado, nem que existam atualmente. A pressão real e todas as características daquele ambiente não foram reproduzidas. Além disso, metano e moléculas orgânicas podem ter origens não biológicas. Uma descoberta exigiria combinar evidências e enfrentar explicações alternativas.
-
-É justamente essa diferença entre possibilidade e comprovação que torna a investigação tão interessante. Se houver vida naquele oceano, material biológico poderia, em princípio, alcançar os jatos. Futuras missões poderiam procurar células, fragmentos ou conjuntos de moléculas relevantes. Por enquanto, o laboratório ajuda a formular perguntas melhores sobre aquilo que devemos buscar quando voltarmos a explorar esse mundo.
-
-Assista até o final e deixe sua opinião: você aposta que encontraremos vida primeiro em Marte ou em uma lua oceânica como Encélado? Inscreva-se no canal, ative as notificações e compartilhe este vídeo com quem acompanha astronomia, exploração espacial e os grandes mistérios do Universo!
-
-#Encélado #VidaExtraterrestre #Astronomia #Saturno #Astrobiologia
-
-Fonte: “Microbes on Enceladus?”, de Paul Gilster, publicado no Centauri Dreams em 21 de outubro de 2026.</media:description>
-   <media:community>
-    <media:starRating count="2559" average="5.00" min="1" max="5"/>
-    <media:statistics views="60448"/>
+    <media:starRating count="4456" average="5.00" min="1" max="5"/>
+    <media:statistics views="154689"/>
    </media:community>
   </media:group>
  </entry>
