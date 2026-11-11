@@ -11,6 +11,46 @@
  </author>
  <published>2021-10-13T07:10:08+00:00</published>
  <entry>
+  <id>yt:video:001jI-SWYSA</id>
+  <yt:videoId>001jI-SWYSA</yt:videoId>
+  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
+  <title>AGORA É DEFINITIVO!!! DESCOBRIMOS O QUE SÃO OS PEQUENOS PONTOS VERMELHOS DO JAMES WEBB!!!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=001jI-SWYSA"/>
+  <author>
+   <name>SpaceToday</name>
+   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
+  </author>
+  <published>2026-11-11T21:30:18+00:00</published>
+  <updated>2026-11-11T21:30:19+00:00</updated>
+  <media:group>
+   <media:title>AGORA É DEFINITIVO!!! DESCOBRIMOS O QUE SÃO OS PEQUENOS PONTOS VERMELHOS DO JAMES WEBB!!!</media:title>
+   <media:content url="https://www.youtube.com/v/001jI-SWYSA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/001jI-SWYSA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>O Telescópio Espacial James Webb encontrou centenas de pequenos pontos vermelhos nas imagens do Universo jovem. Eles são tão compactos que mal se distinguem de uma fonte pontual. Mas, quando os astrônomos separam a luz desses objetos por comprimento de onda, aparece um espectro em forma de V. Há sinais de hidrogênio muito denso e, em muitos casos, pouca ou nenhuma emissão detectável de raios X. O que está escondido ali?
+
+Neste vídeo, eu mostro como Daniel Whalen e seus colegas usaram simulações cosmológicas para investigar a origem dos Little Red Dots, ou LRDs. A hipótese é que esses pontos sejam galáxias compactas que abrigam buracos negros nascidos por colapso direto. A história começa com uma estrela primordial gigantesca, que poderia atingir cerca de 100 mil vezes a massa do Sol antes de colapsar. O buraco negro nasceria com uma massa enorme, cercado pelo gás que alimentou a estrela.
+
+Para entender o cenário, imagine o gás primordial escoando para o centro de uma estrutura jovem e formando um disco muito denso. Parte desse material alimenta a estrela supermassiva. Depois do colapso, o gás remanescente continua alimentando o buraco negro. A equipe investigou o que acontece a seguir. Será que um disco tão denso consegue esconder os raios X de um buraco negro que está engolindo matéria e liberando tanta energia?
+
+Na simulação, a equipe começou com o buraco negro já formado. Os pesquisadores colocaram a semente no centro do disco e acompanharam a interação entre os raios X e o gás ao redor. Mesmo com uma luminosidade equivalente à de um buraco negro de 10 milhões de massas solares alimentado perto do limite de Eddington, os raios X continuaram confinados à região central. O gás absorve parte da radiação e reemite energia em outros comprimentos de onda. Isso ajuda a explicar por que um núcleo luminoso pode passar despercebido nas observações em raios X.
+
+O gás também deixa sua impressão digital no espectro. Em vários LRDs, o hidrogênio absorve luz em comprimentos de onda específicos e produz as chamadas feições de Balmer. A intensidade dessa absorção dá pistas sobre a densidade do material em torno do núcleo. A forma em V conta outra parte da história. Quando olhamos para a luz emitida pelo objeto, o lado ultravioleta é relativamente azul, enquanto a emissão no visível sobe em direção ao vermelho. As duas regiões guardam informações sobre componentes diferentes da mesma galáxia.
+
+Na galáxia simulada, um aglomerado compacto de estrelas jovens se forma perto do buraco negro e fornece parte importante da luz azul. O aglomerado tem cerca de 150 parsecs de raio. O núcleo envolto pelo disco contribui para o brilho avermelhado. Ao somar as duas fontes, os pesquisadores conseguiram reproduzir características dos espectros de cinco LRDs medidos pelo James Webb. Entre eles estão o CAPERS-LRD-z9, observado a um desvio para o vermelho de 9,29, e o MoM-BH*−1, cujo espectro exibe uma queda de brilho particularmente acentuada na região da quebra de Balmer.
+
+Por que isso importa para entender os primeiros buracos negros supermassivos? Porque uma semente que já nasce com cerca de 100 mil massas solares precisa crescer muito menos para atingir milhões ou bilhões de massas solares. Se a hipótese estiver correta, alguns dos pontinhos vermelhos do Webb registram uma fase em que esses buracos negros estavam crescendo dentro de galáxias em formação. Encontrar objetos ainda mais jovens pode ajudar a testar essa origem e revelar como a relação entre o buraco negro e sua galáxia muda com o tempo.
+
+Ao longo do vídeo, você vai ver o que o Webb mediu, como a simulação tratou o gás e por que a estrela supermassiva é a precursora proposta nesse cenário. Inscreva-se no Space Today para acompanhar mais descobertas sobre o Universo primitivo. E me conta nos comentários qual pista mais chamou sua atenção. A falta de raios X ou o espectro em forma de V?
+
+Artigo de Whalen e colegas publicado no Astrophysical Journal Letters
+https://doi.org/10.3847/2041-8213/aeb37a</media:description>
+   <media:community>
+    <media:starRating count="846" average="5.00" min="1" max="5"/>
+    <media:statistics views="3331"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:gg0GLb33Nt0</id>
   <yt:videoId>gg0GLb33Nt0</yt:videoId>
   <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
@@ -52,8 +92,8 @@ Qual dessas notícias mais chamou sua atenção? Comente, deixe seu like, inscre
 
 #SpaceToday #Astronomia #Espaço #Ciência #JamesWebb #VeraRubin #Hera</media:description>
    <media:community>
-    <media:starRating count="1959" average="5.00" min="1" max="5"/>
-    <media:statistics views="41668"/>
+    <media:starRating count="2162" average="5.00" min="1" max="5"/>
+    <media:statistics views="46920"/>
    </media:community>
   </media:group>
  </entry>
@@ -99,8 +139,8 @@ https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-21-0
 
 #SpaceToday #LHC #CERN #QuintaDimensão #FísicaDePartículas</media:description>
    <media:community>
-    <media:starRating count="4899" average="5.00" min="1" max="5"/>
-    <media:statistics views="133037"/>
+    <media:starRating count="5133" average="5.00" min="1" max="5"/>
+    <media:statistics views="142400"/>
    </media:community>
   </media:group>
  </entry>
@@ -149,8 +189,8 @@ https://doi.org/10.3390/universe12070193
 
 #SpaceToday #Universo #Cosmologia #MateriaEscura #EnergiaEscura</media:description>
    <media:community>
-    <media:starRating count="2510" average="5.00" min="1" max="5"/>
-    <media:statistics views="54915"/>
+    <media:starRating count="2527" average="5.00" min="1" max="5"/>
+    <media:statistics views="55336"/>
    </media:community>
   </media:group>
  </entry>
@@ -213,8 +253,8 @@ O que você achou dessa descoberta incrível? Será que as encostas de Alba Mons
 
 #Marte #Astronomia #Ciencia #Espaço #Vulcoes #Astrobiologia #ExoMars #ESA #SistemaSolar #VidaEmMarte #ExploraçãoEspacial #Universo</media:description>
    <media:community>
-    <media:starRating count="2178" average="5.00" min="1" max="5"/>
-    <media:statistics views="42031"/>
+    <media:starRating count="2187" average="5.00" min="1" max="5"/>
+    <media:statistics views="42114"/>
    </media:community>
   </media:group>
  </entry>
@@ -229,7 +269,7 @@ O que você achou dessa descoberta incrível? Será que as encostas de Alba Mons
    <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
   </author>
   <published>2026-11-04T02:12:59+00:00</published>
-  <updated>2026-11-11T08:48:08+00:00</updated>
+  <updated>2026-11-11T22:20:46+00:00</updated>
   <media:group>
    <media:title>BATEMOS NA PORTA DO ZEPTOVERSO!!! E AGORA?</media:title>
    <media:content url="https://www.youtube.com/v/4dQIjpzEO3M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -279,8 +319,8 @@ https://arxiv.org/abs/2611.00230
 
 #Zeptoverso #CERN #LHCb #FisicaDeParticulas</media:description>
    <media:community>
-    <media:starRating count="13593" average="5.00" min="1" max="5"/>
-    <media:statistics views="641959"/>
+    <media:starRating count="13661" average="5.00" min="1" max="5"/>
+    <media:statistics views="646429"/>
    </media:community>
   </media:group>
  </entry>
@@ -322,8 +362,8 @@ O resfriamento vulcânico é temporário e não resolve o aquecimento global. En
 
 Artigo científico: https://doi.org/10.1029/2026GL122071</media:description>
    <media:community>
-    <media:starRating count="1208" average="5.00" min="1" max="5"/>
-    <media:statistics views="25066"/>
+    <media:starRating count="1210" average="5.00" min="1" max="5"/>
+    <media:statistics views="25091"/>
    </media:community>
   </media:group>
  </entry>
@@ -372,8 +412,8 @@ Inscreva-se no Space Today, curta o vídeo e ative as notificações para acompa
 
 #Starship #ArtemisIII #NASA #SpaceX #BlueOrigin #SpaceToday</media:description>
    <media:community>
-    <media:starRating count="2522" average="5.00" min="1" max="5"/>
-    <media:statistics views="55034"/>
+    <media:starRating count="2525" average="5.00" min="1" max="5"/>
+    <media:statistics views="55121"/>
    </media:community>
   </media:group>
  </entry>
@@ -418,8 +458,8 @@ Qual dessas notícias mais chamou sua atenção? Deixe seu comentário, curta o 
 
 #SpaceToday #Astronomia #JamesWebb #Betelgeuse #NASA</media:description>
    <media:community>
-    <media:starRating count="2722" average="5.00" min="1" max="5"/>
-    <media:statistics views="66499"/>
+    <media:starRating count="2730" average="5.00" min="1" max="5"/>
+    <media:statistics views="66661"/>
    </media:community>
   </media:group>
  </entry>
@@ -451,8 +491,8 @@ Em outras palavras, pedras aparentemente secas poderiam ajudar a fabricar água 
 
 Se esse processo foi comum durante a formação de planetas rochosos, ele também pode ter acontecido em mundos parecidos com a Terra ao redor de outras estrelas, ampliando as possibilidades de existirem planetas com água líquida — e talvez condições favoráveis à vida — em toda a galáxia. A origem da água na Terra continua sendo um dos maiores mistérios da ciência, mas essa hipótese mostra que os oceanos podem ter começado em meio a uma chuva de pedras incandescentes, vapor e magma, em um planeta que ainda estava nascendo.</media:description>
    <media:community>
-    <media:starRating count="1276" average="5.00" min="1" max="5"/>
-    <media:statistics views="24716"/>
+    <media:starRating count="1280" average="5.00" min="1" max="5"/>
+    <media:statistics views="24739"/>
    </media:community>
   </media:group>
  </entry>
@@ -492,8 +532,8 @@ E você: acha que a vida nasceu aqui ou veio de fora? Conta nos comentários.
 
 #OrigemDaVida #Cometas #Astrobiologia #Ciência #DivulgaçãoCientífica #Marte #Astronomia</media:description>
    <media:community>
-    <media:starRating count="1420" average="5.00" min="1" max="5"/>
-    <media:statistics views="26321"/>
+    <media:starRating count="1424" average="5.00" min="1" max="5"/>
+    <media:statistics views="26342"/>
    </media:community>
   </media:group>
  </entry>
@@ -536,8 +576,8 @@ Aperte o play para viajar conosco até Marte e desvendar os segredos dessa físi
 👇 **Gostou do conteúdo?**
 Não esqueça de deixar o seu **Like**, se **Inscrever** no canal para mais explorações espaciais semanais e ativar o sininho de notificações. Deixe nos comentários: qual outro grande mistério do Sistema Solar você quer que a gente investigue no próximo vídeo? 🚀🌌</media:description>
    <media:community>
-    <media:starRating count="2443" average="5.00" min="1" max="5"/>
-    <media:statistics views="55057"/>
+    <media:starRating count="2448" average="5.00" min="1" max="5"/>
+    <media:statistics views="55092"/>
    </media:community>
   </media:group>
  </entry>
@@ -584,8 +624,8 @@ Leia o comunicado oficial de imprensa e acesse o *Orbitviewer* para ver a órbit
 
 #Astronomia #SistemaSolar #PlanetaAnao #2026ED138 #ObservatorioRubin #Ciencia #Espaço #Universo #LSST #Física</media:description>
    <media:community>
-    <media:starRating count="2516" average="5.00" min="1" max="5"/>
-    <media:statistics views="52936"/>
+    <media:starRating count="2517" average="5.00" min="1" max="5"/>
+    <media:statistics views="52946"/>
    </media:community>
   </media:group>
  </entry>
@@ -623,8 +663,8 @@ Os resultados finais foram espetaculares. As previsões da Lumina sobre as taxas
 
 Gostou de conhecer os bastidores da evolução do Universo? Deixe seu like, inscreva-se no canal para mais conteúdos de exploração espacial e deixe nos comentários: o que você acha que o telescópio James Webb e simulações como a Lumina vão descobrir a seguir?</media:description>
    <media:community>
-    <media:starRating count="1788" average="5.00" min="1" max="5"/>
-    <media:statistics views="40346"/>
+    <media:starRating count="1789" average="5.00" min="1" max="5"/>
+    <media:statistics views="40367"/>
    </media:community>
   </media:group>
  </entry>
@@ -670,53 +710,8 @@ Esta observação sem precedentes marca um passo monumental na nossa compreensã
 
 #Astronomia #Astrofísica #ALMA #FormaçãoEstelar #NuvemDoDragao #EstrelasMassivas #Universo #Ciência #ESO #Espaço #DescobertasCientificas #MisteriosDoUniverso #Cosmologia #ExploraçãoEspacial #BuracosNegros #FisicaQuantica #AstronomiaBrasil #DivulgaçãoCientífica #TelescópioALMA #Astronomy #SpaceNews #Física #Educação</media:description>
    <media:community>
-    <media:starRating count="1143" average="5.00" min="1" max="5"/>
-    <media:statistics views="27876"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:b2BDdlyrmCg</id>
-  <yt:videoId>b2BDdlyrmCg</yt:videoId>
-  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
-  <title>O PRIMEIRO SUSSURRO DE MARTE É REVELADO 50 ANOS DEPOIS!!!</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=b2BDdlyrmCg"/>
-  <author>
-   <name>SpaceToday</name>
-   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
-  </author>
-  <published>2026-10-24T22:34:47+00:00</published>
-  <updated>2026-10-27T23:28:36+00:00</updated>
-  <media:group>
-   <media:title>O PRIMEIRO SUSSURRO DE MARTE É REVELADO 50 ANOS DEPOIS!!!</media:title>
-   <media:content url="https://www.youtube.com/v/b2BDdlyrmCg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/b2BDdlyrmCg/hqdefault.jpg" width="480" height="360"/>
-   <media:description>AS MATRÍCULAS ESTÃO ABERTAS!!! VEM ESTUDAR ASTRONOMIA COMIGO NA ACADEMY SPACE!!!
-
-https://lp.academyspace.com.br/
-
-Um sinal registrado em Marte há 50 anos voltou a intrigar os cientistas. A Viking 2 pode ter detectado um tremor marciano muito antes da missão InSight, mas as limitações do equipamento e a dificuldade de interpretar os dados deixaram essa história em aberto. Agora, uma nova análise recupera os registros e investiga o que aquele sinal pode revelar sobre o interior do Planeta Vermelho.
-
-Neste vídeo, você vai entender por que os dados da Viking 2 ganharam uma nova importância. Durante 560 dias marcianos de operação, seu sismômetro registrou apenas dois eventos candidatos a sismos, nos sols 53 e 80. Esse resultado ajudou a construir a imagem de um planeta pouco ativo. Décadas depois, a InSight mostrou que Marte apresenta uma atividade sísmica que os instrumentos da década de 1970 tinham dificuldade para registrar.
-
-O problema estava na maneira de captar e transmitir as vibrações. Para economizar a limitada capacidade de comunicação entre Marte e a Terra, a Viking 2 comprimia os sinais antes de enviá-los. Além disso, seu sismômetro tinha maior sensibilidade em torno de 3 hertz, enquanto muitos tremores tectônicos estudados pela InSight concentram sua energia abaixo de 1 hertz. Parte importante da atividade marciana podia ficar abaixo do limite de detecção.
-
-O foco da investigação é o evento do sol 80. Registrado por volta das três da manhã, em um horário normalmente associado a ventos mais fracos, ele apresentou uma amplitude acima do ruído noturno. Isso faz dele um candidato especialmente interessante, embora sua origem ainda não esteja confirmada.
-
-Uma possibilidade é que o sinal tenha vindo das planícies do norte de Marte, em uma região ampla também associada a tremores sazonais observados pela InSight. A ocorrência durante o verão local reforça a hipótese de uma relação com processos influenciados pelo clima ou por materiais voláteis. Se essa interpretação estiver correta, os registros das duas missões podem revelar uma região com atividade sísmica em épocas separadas por quase meio século.
-
-Outra hipótese é a de um tremor tectônico distante. Nesse cenário, a identificação das primeiras ondas precisa ser reinterpretada, e as estimativas de magnitude ficam entre 4,6 e 4,8, podendo chegar a 4,9–5,1 conforme as hipóteses sobre os componentes registrados e o movimento do módulo. Esses números dependem do modelo adotado: não representam uma magnitude confirmada. Um impacto de meteoroide também permanece entre as explicações possíveis.
-
-Existe ainda uma diferença importante na duração do sinal. O evento do sol 80 perdeu intensidade cerca de vinte vezes mais rapidamente do que os tremores típicos usados na comparação com a InSight. Isso pode indicar diferenças na propagação e na perda de energia das ondas no subsolo de Utopia Planitia. A observação abre novas perguntas sobre o interior de Marte, mas não comprova a presença de água.
-
-Vamos explorar como os cientistas reconstruíram o funcionamento de um instrumento dos anos 1970, o que a InSight trouxe para essa investigação e por que dados antigos ainda podem produzir conhecimento novo. A história da sismologia de Marte continua sendo escrita também com sinais que chegaram à Terra há cinco décadas.
-
-Inscreva-se no Space Today e acompanhe as descobertas que estão mudando nossa compreensão de Marte e do Sistema Solar.
-
-Referência: Xiao, W., Li, J., Wang, Y. e Lazarewicz, A. (2026). Fifty Years Later: Revisiting Viking 2 Seismic Signals Through InSight. AGU Advances, 7, e2026AV002319. [https://doi.org/10.1029/2026AV002319](https://doi.org/10.1029/2026AV002319).</media:description>
-   <media:community>
-    <media:starRating count="1817" average="5.00" min="1" max="5"/>
-    <media:statistics views="44710"/>
+    <media:starRating count="1144" average="5.00" min="1" max="5"/>
+    <media:statistics views="27879"/>
    </media:community>
   </media:group>
  </entry>

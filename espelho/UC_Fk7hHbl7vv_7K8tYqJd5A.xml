@@ -11,6 +11,46 @@
  </author>
  <published>2015-04-09T04:31:51+00:00</published>
  <entry>
+  <id>yt:video:001jI-SWYSA</id>
+  <yt:videoId>001jI-SWYSA</yt:videoId>
+  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
+  <title>AGORA É DEFINITIVO!!! DESCOBRIMOS O QUE SÃO OS PEQUENOS PONTOS VERMELHOS DO JAMES WEBB!!!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=001jI-SWYSA"/>
+  <author>
+   <name>SpaceToday</name>
+   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
+  </author>
+  <published>2026-11-11T21:30:18+00:00</published>
+  <updated>2026-11-11T21:30:19+00:00</updated>
+  <media:group>
+   <media:title>AGORA É DEFINITIVO!!! DESCOBRIMOS O QUE SÃO OS PEQUENOS PONTOS VERMELHOS DO JAMES WEBB!!!</media:title>
+   <media:content url="https://www.youtube.com/v/001jI-SWYSA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/001jI-SWYSA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>O Telescópio Espacial James Webb encontrou centenas de pequenos pontos vermelhos nas imagens do Universo jovem. Eles são tão compactos que mal se distinguem de uma fonte pontual. Mas, quando os astrônomos separam a luz desses objetos por comprimento de onda, aparece um espectro em forma de V. Há sinais de hidrogênio muito denso e, em muitos casos, pouca ou nenhuma emissão detectável de raios X. O que está escondido ali?
+
+Neste vídeo, eu mostro como Daniel Whalen e seus colegas usaram simulações cosmológicas para investigar a origem dos Little Red Dots, ou LRDs. A hipótese é que esses pontos sejam galáxias compactas que abrigam buracos negros nascidos por colapso direto. A história começa com uma estrela primordial gigantesca, que poderia atingir cerca de 100 mil vezes a massa do Sol antes de colapsar. O buraco negro nasceria com uma massa enorme, cercado pelo gás que alimentou a estrela.
+
+Para entender o cenário, imagine o gás primordial escoando para o centro de uma estrutura jovem e formando um disco muito denso. Parte desse material alimenta a estrela supermassiva. Depois do colapso, o gás remanescente continua alimentando o buraco negro. A equipe investigou o que acontece a seguir. Será que um disco tão denso consegue esconder os raios X de um buraco negro que está engolindo matéria e liberando tanta energia?
+
+Na simulação, a equipe começou com o buraco negro já formado. Os pesquisadores colocaram a semente no centro do disco e acompanharam a interação entre os raios X e o gás ao redor. Mesmo com uma luminosidade equivalente à de um buraco negro de 10 milhões de massas solares alimentado perto do limite de Eddington, os raios X continuaram confinados à região central. O gás absorve parte da radiação e reemite energia em outros comprimentos de onda. Isso ajuda a explicar por que um núcleo luminoso pode passar despercebido nas observações em raios X.
+
+O gás também deixa sua impressão digital no espectro. Em vários LRDs, o hidrogênio absorve luz em comprimentos de onda específicos e produz as chamadas feições de Balmer. A intensidade dessa absorção dá pistas sobre a densidade do material em torno do núcleo. A forma em V conta outra parte da história. Quando olhamos para a luz emitida pelo objeto, o lado ultravioleta é relativamente azul, enquanto a emissão no visível sobe em direção ao vermelho. As duas regiões guardam informações sobre componentes diferentes da mesma galáxia.
+
+Na galáxia simulada, um aglomerado compacto de estrelas jovens se forma perto do buraco negro e fornece parte importante da luz azul. O aglomerado tem cerca de 150 parsecs de raio. O núcleo envolto pelo disco contribui para o brilho avermelhado. Ao somar as duas fontes, os pesquisadores conseguiram reproduzir características dos espectros de cinco LRDs medidos pelo James Webb. Entre eles estão o CAPERS-LRD-z9, observado a um desvio para o vermelho de 9,29, e o MoM-BH*−1, cujo espectro exibe uma queda de brilho particularmente acentuada na região da quebra de Balmer.
+
+Por que isso importa para entender os primeiros buracos negros supermassivos? Porque uma semente que já nasce com cerca de 100 mil massas solares precisa crescer muito menos para atingir milhões ou bilhões de massas solares. Se a hipótese estiver correta, alguns dos pontinhos vermelhos do Webb registram uma fase em que esses buracos negros estavam crescendo dentro de galáxias em formação. Encontrar objetos ainda mais jovens pode ajudar a testar essa origem e revelar como a relação entre o buraco negro e sua galáxia muda com o tempo.
+
+Ao longo do vídeo, você vai ver o que o Webb mediu, como a simulação tratou o gás e por que a estrela supermassiva é a precursora proposta nesse cenário. Inscreva-se no Space Today para acompanhar mais descobertas sobre o Universo primitivo. E me conta nos comentários qual pista mais chamou sua atenção. A falta de raios X ou o espectro em forma de V?
+
+Artigo de Whalen e colegas publicado no Astrophysical Journal Letters
+https://doi.org/10.3847/2041-8213/aeb37a</media:description>
+   <media:community>
+    <media:starRating count="836" average="5.00" min="1" max="5"/>
+    <media:statistics views="3311"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:gg0GLb33Nt0</id>
   <yt:videoId>gg0GLb33Nt0</yt:videoId>
   <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
@@ -52,8 +92,8 @@ Qual dessas notícias mais chamou sua atenção? Comente, deixe seu like, inscre
 
 #SpaceToday #Astronomia #Espaço #Ciência #JamesWebb #VeraRubin #Hera</media:description>
    <media:community>
-    <media:starRating count="1957" average="5.00" min="1" max="5"/>
-    <media:statistics views="41668"/>
+    <media:starRating count="2162" average="5.00" min="1" max="5"/>
+    <media:statistics views="46876"/>
    </media:community>
   </media:group>
  </entry>
@@ -99,8 +139,8 @@ https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-21-0
 
 #SpaceToday #LHC #CERN #QuintaDimensão #FísicaDePartículas</media:description>
    <media:community>
-    <media:starRating count="4897" average="5.00" min="1" max="5"/>
-    <media:statistics views="133037"/>
+    <media:starRating count="5133" average="5.00" min="1" max="5"/>
+    <media:statistics views="142275"/>
    </media:community>
   </media:group>
  </entry>
@@ -155,7 +195,7 @@ https://www.pirulla.com.br
 📎 Entre nos grupos de WhatsApp e no canal de notícias da Starship:
 https://chat.whatsapp.com/D9tAO0HHKaI1voWEwiXr5y?mode=gi_t</media:description>
    <media:community>
-    <media:starRating count="101" average="5.00" min="1" max="5"/>
+    <media:starRating count="114" average="5.00" min="1" max="5"/>
     <media:statistics views="0"/>
    </media:community>
   </media:group>
@@ -205,8 +245,8 @@ https://doi.org/10.3390/universe12070193
 
 #SpaceToday #Universo #Cosmologia #MateriaEscura #EnergiaEscura</media:description>
    <media:community>
-    <media:starRating count="2510" average="5.00" min="1" max="5"/>
-    <media:statistics views="54912"/>
+    <media:starRating count="2527" average="5.00" min="1" max="5"/>
+    <media:statistics views="55336"/>
    </media:community>
   </media:group>
  </entry>
@@ -258,7 +298,7 @@ https://www.pirulla.com.br
 https://chat.whatsapp.com/D9tAO0HHKaI1voWEwiXr5y?mode=gi_t</media:description>
    <media:community>
     <media:starRating count="897" average="5.00" min="1" max="5"/>
-    <media:statistics views="23439"/>
+    <media:statistics views="23490"/>
    </media:community>
   </media:group>
  </entry>
@@ -284,8 +324,8 @@ Confira os melhores momentos de Sérgio Sacani aqui, nos Shorts do Space Today! 
  
 https://www.instagram.com/spacetoday/</media:description>
    <media:community>
-    <media:starRating count="4561" average="5.00" min="1" max="5"/>
-    <media:statistics views="76081"/>
+    <media:starRating count="4706" average="5.00" min="1" max="5"/>
+    <media:statistics views="78479"/>
    </media:community>
   </media:group>
  </entry>
@@ -348,8 +388,8 @@ O que você achou dessa descoberta incrível? Será que as encostas de Alba Mons
 
 #Marte #Astronomia #Ciencia #Espaço #Vulcoes #Astrobiologia #ExoMars #ESA #SistemaSolar #VidaEmMarte #ExploraçãoEspacial #Universo</media:description>
    <media:community>
-    <media:starRating count="2178" average="5.00" min="1" max="5"/>
-    <media:statistics views="42031"/>
+    <media:starRating count="2187" average="5.00" min="1" max="5"/>
+    <media:statistics views="42114"/>
    </media:community>
   </media:group>
  </entry>
@@ -375,8 +415,8 @@ Confira os melhores momentos de Sérgio Sacani aqui, nos Shorts do Space Today! 
  
 https://www.instagram.com/spacetoday/</media:description>
    <media:community>
-    <media:starRating count="2831" average="5.00" min="1" max="5"/>
-    <media:statistics views="68632"/>
+    <media:starRating count="2845" average="5.00" min="1" max="5"/>
+    <media:statistics views="68935"/>
    </media:community>
   </media:group>
  </entry>
@@ -391,7 +431,7 @@ https://www.instagram.com/spacetoday/</media:description>
    <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
   </author>
   <published>2026-11-04T02:12:59+00:00</published>
-  <updated>2026-11-11T08:48:08+00:00</updated>
+  <updated>2026-11-11T22:20:46+00:00</updated>
   <media:group>
    <media:title>BATEMOS NA PORTA DO ZEPTOVERSO!!! E AGORA?</media:title>
    <media:content url="https://www.youtube.com/v/4dQIjpzEO3M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -441,8 +481,8 @@ https://arxiv.org/abs/2611.00230
 
 #Zeptoverso #CERN #LHCb #FisicaDeParticulas</media:description>
    <media:community>
-    <media:starRating count="13593" average="5.00" min="1" max="5"/>
-    <media:statistics views="641938"/>
+    <media:starRating count="13661" average="5.00" min="1" max="5"/>
+    <media:statistics views="646429"/>
    </media:community>
   </media:group>
  </entry>
@@ -484,8 +524,8 @@ O resfriamento vulcânico é temporário e não resolve o aquecimento global. En
 
 Artigo científico: https://doi.org/10.1029/2026GL122071</media:description>
    <media:community>
-    <media:starRating count="1208" average="5.00" min="1" max="5"/>
-    <media:statistics views="25066"/>
+    <media:starRating count="1210" average="5.00" min="1" max="5"/>
+    <media:statistics views="25091"/>
    </media:community>
   </media:group>
  </entry>
@@ -536,7 +576,7 @@ https://www.pirulla.com.br
 📎 Entre nos grupos de WhatsApp e no canal de notícias da Starship:
 https://chat.whatsapp.com/D9tAO0HHKaI1voWEwiXr5y?mode=gi_t</media:description>
    <media:community>
-    <media:starRating count="54" average="5.00" min="1" max="5"/>
+    <media:starRating count="60" average="5.00" min="1" max="5"/>
     <media:statistics views="0"/>
    </media:community>
   </media:group>
@@ -587,8 +627,8 @@ https://www.pirulla.com.br
 📎 Entre nos grupos de WhatsApp e no canal de notícias da Starship:
 https://chat.whatsapp.com/D9tAO0HHKaI1voWEwiXr5y?mode=gi_t</media:description>
    <media:community>
-    <media:starRating count="953" average="5.00" min="1" max="5"/>
-    <media:statistics views="24594"/>
+    <media:starRating count="954" average="5.00" min="1" max="5"/>
+    <media:statistics views="24601"/>
    </media:community>
   </media:group>
  </entry>
@@ -637,8 +677,8 @@ Inscreva-se no Space Today, curta o vídeo e ative as notificações para acompa
 
 #Starship #ArtemisIII #NASA #SpaceX #BlueOrigin #SpaceToday</media:description>
    <media:community>
-    <media:starRating count="2522" average="5.00" min="1" max="5"/>
-    <media:statistics views="55034"/>
+    <media:starRating count="2525" average="5.00" min="1" max="5"/>
+    <media:statistics views="55121"/>
    </media:community>
   </media:group>
  </entry>
@@ -683,60 +723,8 @@ Qual dessas notícias mais chamou sua atenção? Deixe seu comentário, curta o 
 
 #SpaceToday #Astronomia #JamesWebb #Betelgeuse #NASA</media:description>
    <media:community>
-    <media:starRating count="2722" average="5.00" min="1" max="5"/>
-    <media:statistics views="66499"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:Na3dyPx8ya8</id>
-  <yt:videoId>Na3dyPx8ya8</yt:videoId>
-  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
-  <title>LANÇAMENTO FALCON 9 | MISSÃO STARLINK 15-18</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=Na3dyPx8ya8"/>
-  <author>
-   <name>SpaceToday</name>
-   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
-  </author>
-  <published>2026-10-31T05:27:48+00:00</published>
-  <updated>2026-11-07T19:15:44+00:00</updated>
-  <media:group>
-   <media:title>LANÇAMENTO FALCON 9 | MISSÃO STARLINK 15-18</media:title>
-   <media:content url="https://www.youtube.com/v/Na3dyPx8ya8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/Na3dyPx8ya8/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Vamos acompanhar ao vivo a tentativa de lançamento de mais um Falcon 9 levando mais satélites para a mega constelação Starlink, projeto da SpaceX para sistema de comunicação de Internet via satélite.
-
-MANDE SUA MENSAGEM | RESGATE SEU EMBLEMA/ FIGURINHA: 
-https://smartcast.gg/spacetoday
-
-📎 🚀 ESTUDE ASTRONOMIA COM SÉRGIO SACANI! INSCREVA-SE GRATUITAMENTE PARA CONHECER A NOVA TURMA DO ASTRONOMIA TOTAL! 🔭
-👉 https://lp.academyspace.com.br/?utm_source=youtube&amp;utm_medium=descricao&amp;utm_campaign=astronomia_total_fase1_out2026&amp;utm_content=videos_spacetoday
-
-📎 ADQUIRA JÁ O SEU EBOOK SOBRE O NOVO TELESCÓPIO DA NASA, O NANCY GRACE ROMAN POR APENAS R$29,90!!! SÃO 400 PÁGINAS COM TUDO QUE VOCÊ PRECISA SABER SOBRE ESSE MARAVAILHOSO TELESCÓPIO QUE IRÁ REVOLUCIONAR O NOSSO ENTENDIMENTO DO UNIVERSO!!!
-http://lp.academyspace.com.br/roman
-
-📎 MYHUB: BLACK FRIDAY DAS MELHORES IAs! 
-https://r.clique.ly/d0f07be68e
-
-📎 SPACETODAY TOUR 2027 - 365 VISTOS
-CADASTRE-SE AGORA PARA UM TOUR NO KENNEDY SPACE CENTER NA FLÓRIDA COM SÉRGIO SACANI EM 2027
-https://spacetodaytour.com.br/
-https://www.instagram.com/365vistos/
-
-📎 VIRE MEMBRO DO CANAL !!!!! 
-https://www.youtube.com/@SpaceToday/join
-
-📎 ALÉM DA CIÊNCIA - O PODCAST OFICIAL DO SPACETODAY:
-https://www.youtube.com/@AlemDaCiencia_Sacani?sub_confirmation=1
-
-📎 AJUDE O PIRULLA:
-https://www.pirulla.com.br
-
-📎 Entre nos grupos de WhatsApp e no canal de notícias da Starship:
-https://chat.whatsapp.com/D9tAO0HHKaI1voWEwiXr5y?mode=gi_t</media:description>
-   <media:community>
-    <media:starRating count="759" average="5.00" min="1" max="5"/>
-    <media:statistics views="17700"/>
+    <media:starRating count="2730" average="5.00" min="1" max="5"/>
+    <media:statistics views="66660"/>
    </media:community>
   </media:group>
  </entry>
