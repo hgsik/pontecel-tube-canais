@@ -28,8 +28,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/pYN6TAGyXjM/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="367" average="5.00" min="1" max="5"/>
-    <media:statistics views="6105"/>
+    <media:starRating count="370" average="5.00" min="1" max="5"/>
+    <media:statistics views="6196"/>
    </media:community>
   </media:group>
  </entry>
@@ -52,7 +52,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="399" average="5.00" min="1" max="5"/>
-    <media:statistics views="8514"/>
+    <media:statistics views="8528"/>
    </media:community>
   </media:group>
  </entry>
@@ -75,7 +75,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="868" average="5.00" min="1" max="5"/>
-    <media:statistics views="14689"/>
+    <media:statistics views="14705"/>
    </media:community>
   </media:group>
  </entry>
@@ -98,7 +98,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="342" average="5.00" min="1" max="5"/>
-    <media:statistics views="8150"/>
+    <media:statistics views="8158"/>
    </media:community>
   </media:group>
  </entry>
@@ -121,7 +121,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="497" average="5.00" min="1" max="5"/>
-    <media:statistics views="13102"/>
+    <media:statistics views="13108"/>
    </media:community>
   </media:group>
  </entry>
@@ -144,7 +144,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="610" average="5.00" min="1" max="5"/>
-    <media:statistics views="17316"/>
+    <media:statistics views="17327"/>
    </media:community>
   </media:group>
  </entry>
@@ -167,7 +167,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="681" average="5.00" min="1" max="5"/>
-    <media:statistics views="11648"/>
+    <media:statistics views="11654"/>
    </media:community>
   </media:group>
  </entry>
@@ -190,7 +190,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="354" average="5.00" min="1" max="5"/>
-    <media:statistics views="9102"/>
+    <media:statistics views="9105"/>
    </media:community>
   </media:group>
  </entry>
@@ -213,7 +213,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="511" average="5.00" min="1" max="5"/>
-    <media:statistics views="10192"/>
+    <media:statistics views="10194"/>
    </media:community>
   </media:group>
  </entry>
@@ -235,8 +235,8 @@
    <media:thumbnail url="https://i2.ytimg.com/vi/yxPDRBa527g/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1712" average="5.00" min="1" max="5"/>
-    <media:statistics views="32359"/>
+    <media:starRating count="1713" average="5.00" min="1" max="5"/>
+    <media:statistics views="32398"/>
    </media:community>
   </media:group>
  </entry>
@@ -259,7 +259,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="967" average="5.00" min="1" max="5"/>
-    <media:statistics views="18773"/>
+    <media:statistics views="18781"/>
    </media:community>
   </media:group>
  </entry>
@@ -282,7 +282,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="612" average="5.00" min="1" max="5"/>
-    <media:statistics views="16971"/>
+    <media:statistics views="16980"/>
    </media:community>
   </media:group>
  </entry>
@@ -304,8 +304,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/xB0HsJHLKZQ/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="769" average="5.00" min="1" max="5"/>
-    <media:statistics views="18496"/>
+    <media:starRating count="770" average="5.00" min="1" max="5"/>
+    <media:statistics views="18505"/>
    </media:community>
   </media:group>
  </entry>
@@ -328,7 +328,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="50" average="5.00" min="1" max="5"/>
-    <media:statistics views="590"/>
+    <media:statistics views="592"/>
    </media:community>
   </media:group>
  </entry>
@@ -351,7 +351,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="101" average="5.00" min="1" max="5"/>
-    <media:statistics views="1449"/>
+    <media:statistics views="1450"/>
    </media:community>
   </media:group>
  </entry>
