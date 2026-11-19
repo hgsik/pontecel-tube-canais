@@ -28,8 +28,8 @@
    <media:thumbnail url="https://i3.ytimg.com/vi/zSmLrB9TW2Y/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1120" average="5.00" min="1" max="5"/>
-    <media:statistics views="17358"/>
+    <media:starRating count="1127" average="5.00" min="1" max="5"/>
+    <media:statistics views="17480"/>
    </media:community>
   </media:group>
  </entry>
@@ -52,7 +52,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="386" average="5.00" min="1" max="5"/>
-    <media:statistics views="6962"/>
+    <media:statistics views="6984"/>
    </media:community>
   </media:group>
  </entry>
@@ -75,7 +75,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="407" average="5.00" min="1" max="5"/>
-    <media:statistics views="9028"/>
+    <media:statistics views="9036"/>
    </media:community>
   </media:group>
  </entry>
@@ -98,7 +98,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="877" average="5.00" min="1" max="5"/>
-    <media:statistics views="15194"/>
+    <media:statistics views="15208"/>
    </media:community>
   </media:group>
  </entry>
@@ -184,8 +184,8 @@ SOM LIVRE
 A&amp;R: Tony Vieira, Alexandre Fernandes, Lucas Nunes
 MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:community>
-    <media:starRating count="14772" average="5.00" min="1" max="5"/>
-    <media:statistics views="11961249"/>
+    <media:starRating count="14811" average="5.00" min="1" max="5"/>
+    <media:statistics views="11967820"/>
    </media:community>
   </media:group>
  </entry>
@@ -208,7 +208,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="343" average="5.00" min="1" max="5"/>
-    <media:statistics views="8361"/>
+    <media:statistics views="8375"/>
    </media:community>
   </media:group>
  </entry>
@@ -231,7 +231,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="498" average="5.00" min="1" max="5"/>
-    <media:statistics views="13282"/>
+    <media:statistics views="13286"/>
    </media:community>
   </media:group>
  </entry>
@@ -254,7 +254,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="616" average="5.00" min="1" max="5"/>
-    <media:statistics views="17704"/>
+    <media:statistics views="17718"/>
    </media:community>
   </media:group>
  </entry>
@@ -277,7 +277,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="681" average="5.00" min="1" max="5"/>
-    <media:statistics views="11779"/>
+    <media:statistics views="11778"/>
    </media:community>
   </media:group>
  </entry>
@@ -300,7 +300,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="356" average="5.00" min="1" max="5"/>
-    <media:statistics views="9284"/>
+    <media:statistics views="9287"/>
    </media:community>
   </media:group>
  </entry>
@@ -323,7 +323,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="510" average="5.00" min="1" max="5"/>
-    <media:statistics views="10297"/>
+    <media:statistics views="10299"/>
    </media:community>
   </media:group>
  </entry>
@@ -346,7 +346,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="1729" average="5.00" min="1" max="5"/>
-    <media:statistics views="32969"/>
+    <media:statistics views="32972"/>
    </media:community>
   </media:group>
  </entry>
@@ -369,7 +369,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="969" average="5.00" min="1" max="5"/>
-    <media:statistics views="19055"/>
+    <media:statistics views="19064"/>
    </media:community>
   </media:group>
  </entry>
@@ -392,7 +392,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="618" average="5.00" min="1" max="5"/>
-    <media:statistics views="17235"/>
+    <media:statistics views="17243"/>
    </media:community>
   </media:group>
  </entry>
@@ -415,7 +415,7 @@ MKT: Cristina Leuzinger, Carolina Muniz, João Victor Gomes</media:description>
    <media:description></media:description>
    <media:community>
     <media:starRating count="773" average="5.00" min="1" max="5"/>
-    <media:statistics views="18725"/>
+    <media:statistics views="18727"/>
    </media:community>
   </media:group>
  </entry>
