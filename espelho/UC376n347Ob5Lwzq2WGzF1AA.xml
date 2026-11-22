@@ -11,37 +11,6 @@
  </author>
  <published>2011-08-22T14:57:27+00:00</published>
  <entry>
-  <id>yt:video:XmN3ClDzQiI</id>
-  <yt:videoId>XmN3ClDzQiI</yt:videoId>
-  <yt:channelId>UC376n347Ob5Lwzq2WGzF1AA</yt:channelId>
-  <title>SBT NEWS AO VIVO</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=XmN3ClDzQiI"/>
-  <author>
-   <name>SBT News</name>
-   <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
-  </author>
-  <published>2026-11-19T10:20:43+00:00</published>
-  <updated>2026-11-19T23:14:29+00:00</updated>
-  <media:group>
-   <media:title>SBT NEWS AO VIVO</media:title>
-   <media:content url="https://www.youtube.com/v/XmN3ClDzQiI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/XmN3ClDzQiI/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Acompanhe a programação ao vivo do SBT News de graça no YouTube.
-
-Receba as principais notícias do Brasil e do mundo no seu WhatsApp: https://q.me-qr.com/l/WPPSBTNews
-
-Inscreva-se no canal para mais notícias: https://www.youtube.com/@SBTNews 
-
-Acompanhe no site: https://sbtnews.sbt.com.br/  
-
-#sbtnews #notícias #jornalismo #sbt #sbtjornalismo</media:description>
-   <media:community>
-    <media:starRating count="64" average="5.00" min="1" max="5"/>
-    <media:statistics views="2158"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
   <id>yt:video:gCj4t7WvjrQ</id>
   <yt:videoId>gCj4t7WvjrQ</yt:videoId>
   <yt:channelId>UC376n347Ob5Lwzq2WGzF1AA</yt:channelId>
@@ -52,7 +21,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-22T00:07:03+00:00</published>
-  <updated>2026-11-22T00:07:24+00:00</updated>
+  <updated>2026-11-22T01:29:03+00:00</updated>
   <media:group>
    <media:title>JORNAL DO SBT NEWS | 21/11/2026</media:title>
    <media:content url="https://www.youtube.com/v/gCj4t7WvjrQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -67,8 +36,39 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #jornaldosbtnews</media:description>
    <media:community>
-    <media:starRating count="302" average="5.00" min="1" max="5"/>
-    <media:statistics views="33491"/>
+    <media:starRating count="382" average="5.00" min="1" max="5"/>
+    <media:statistics views="94391"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XmN3ClDzQiI</id>
+  <yt:videoId>XmN3ClDzQiI</yt:videoId>
+  <yt:channelId>UC376n347Ob5Lwzq2WGzF1AA</yt:channelId>
+  <title>SBT NEWS AO VIVO</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XmN3ClDzQiI"/>
+  <author>
+   <name>SBT News</name>
+   <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
+  </author>
+  <published>2026-11-19T10:20:43+00:00</published>
+  <updated>2026-11-22T06:35:07+00:00</updated>
+  <media:group>
+   <media:title>SBT NEWS AO VIVO</media:title>
+   <media:content url="https://www.youtube.com/v/XmN3ClDzQiI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XmN3ClDzQiI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Acompanhe a programação ao vivo do SBT News de graça no YouTube.
+
+Receba as principais notícias do Brasil e do mundo no seu WhatsApp: https://q.me-qr.com/l/WPPSBTNews
+
+Inscreva-se no canal para mais notícias: https://www.youtube.com/@SBTNews 
+
+Acompanhe no site: https://sbtnews.sbt.com.br/  
+
+#sbtnews #notícias #jornalismo #sbt #sbtjornalismo</media:description>
+   <media:community>
+    <media:starRating count="316" average="5.00" min="1" max="5"/>
+    <media:statistics views="52326"/>
    </media:community>
   </media:group>
  </entry>
@@ -83,7 +83,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T23:57:28+00:00</published>
-  <updated>2026-11-22T00:01:21+00:00</updated>
+  <updated>2026-11-22T06:33:14+00:00</updated>
   <media:group>
    <media:title>Programa “Ética Imortal” estreia neste sábado (21) no SBT News | #JornaldoSBTNews</media:title>
    <media:content url="https://www.youtube.com/v/uz-mWumAWPw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -98,8 +98,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #etica #eticamortal #academiabrasileiradeletras #direito #supremotribunalfederal #stf #josebertodecastroneves #corrupcao #literatura</media:description>
    <media:community>
-    <media:starRating count="3" average="5.00" min="1" max="5"/>
-    <media:statistics views="111"/>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="12528"/>
    </media:community>
   </media:group>
  </entry>
@@ -114,7 +114,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T23:52:40+00:00</published>
-  <updated>2026-11-21T23:53:45+00:00</updated>
+  <updated>2026-11-22T02:10:49+00:00</updated>
   <media:group>
    <media:title>Programa “Ética Imortal” estreia neste sábado (21) no SBT News | #JornaldoSBTNews</media:title>
    <media:content url="https://www.youtube.com/v/TO5xAUD5Kx8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -130,7 +130,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #etica #eticamortal #academiabrasileiradeletras #direito #supremotribunalfederal #stf #josebertodecastroneves #corrupcao #literatura</media:description>
    <media:community>
     <media:starRating count="1" average="5.00" min="1" max="5"/>
-    <media:statistics views="32"/>
+    <media:statistics views="8536"/>
    </media:community>
   </media:group>
  </entry>
@@ -145,7 +145,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T23:40:36+00:00</published>
-  <updated>2026-11-21T23:40:40+00:00</updated>
+  <updated>2026-11-22T02:34:22+00:00</updated>
   <media:group>
    <media:title>Economista critica pacote de ajuste fiscal e fala de risco de estagflação em 2027 | #JornaldoSBTNews</media:title>
    <media:content url="https://www.youtube.com/v/QyX2PFBZVEo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -160,8 +160,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #ajustefiscal #economia #contaspublicas #senado #congresso #juros #inflacao #dividapublica #estagflacao #brasil</media:description>
    <media:community>
-    <media:starRating count="13" average="5.00" min="1" max="5"/>
-    <media:statistics views="130"/>
+    <media:starRating count="29" average="5.00" min="1" max="5"/>
+    <media:statistics views="4756"/>
    </media:community>
   </media:group>
  </entry>
@@ -176,7 +176,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T23:36:02+00:00</published>
-  <updated>2026-11-21T23:57:03+00:00</updated>
+  <updated>2026-11-22T07:16:49+00:00</updated>
   <media:group>
    <media:title>Temporal deixa cinco mortos e mais de 200 feridos no RS | #JornaldoSBTNews</media:title>
    <media:content url="https://www.youtube.com/v/Adv0ACK5AzA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -191,8 +191,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #tupancireta #riograndedosul #temporal #tempestade #granizo #defesacivil #destruicao #chuvas #tragedia #ajudahumanitaria</media:description>
    <media:community>
-    <media:starRating count="77" average="5.00" min="1" max="5"/>
-    <media:statistics views="1570"/>
+    <media:starRating count="272" average="5.00" min="1" max="5"/>
+    <media:statistics views="34831"/>
    </media:community>
   </media:group>
  </entry>
@@ -222,8 +222,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #suzanevonrichthofen #casosuzane #direitopenal #congressonacional #projetodelei #documentario #liberdadedeexpressao #justicarestaurativa #vitimas #segurancapublica</media:description>
    <media:community>
-    <media:starRating count="9" average="5.00" min="1" max="5"/>
-    <media:statistics views="254"/>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="20683"/>
    </media:community>
   </media:group>
  </entry>
@@ -238,7 +238,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T23:06:40+00:00</published>
-  <updated>2026-11-21T23:06:42+00:00</updated>
+  <updated>2026-11-22T07:04:30+00:00</updated>
   <media:group>
    <media:title>Moraes libera visitas de familiares a Bolsonaro após internação | #NewsSábado</media:title>
    <media:content url="https://www.youtube.com/v/azyLm6LnSZE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -253,8 +253,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #jairbolsonaro #alexandredemoraes #stf #bolsonaro #internacaobolsonaro #politica #supremotribunalfederal #saudebolsonaro #visitasabolsonaro #brasilia</media:description>
    <media:community>
-    <media:starRating count="162" average="5.00" min="1" max="5"/>
-    <media:statistics views="3398"/>
+    <media:starRating count="206" average="5.00" min="1" max="5"/>
+    <media:statistics views="24879"/>
    </media:community>
   </media:group>
  </entry>
@@ -284,8 +284,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #violenciasexual #abusosexualinfantil #direitosdacrianca #infancia #adolescencia #indenizacao #justica #institutoliberta #protecaoainfancia #prevencao</media:description>
    <media:community>
-    <media:starRating count="6" average="5.00" min="1" max="5"/>
-    <media:statistics views="60"/>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="1811"/>
    </media:community>
   </media:group>
  </entry>
@@ -315,8 +315,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #lula #janja #possedelula #possepresidencial #brasilia #politica #pt #governolula #fonoterapia #presidente</media:description>
    <media:community>
-    <media:starRating count="11" average="5.00" min="1" max="5"/>
-    <media:statistics views="396"/>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="12416"/>
    </media:community>
   </media:group>
  </entry>
@@ -348,8 +348,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #lula #donaldtrump #putin #xijinping #politicainternacional #geopolitica #guerras #conflitosinternacionais #multilateralismo #diplomacia</media:description>
    <media:community>
-    <media:starRating count="83" average="5.00" min="1" max="5"/>
-    <media:statistics views="1316"/>
+    <media:starRating count="185" average="5.00" min="1" max="5"/>
+    <media:statistics views="15234"/>
    </media:community>
   </media:group>
  </entry>
@@ -377,8 +377,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #SBTBrasil #SBTNews #Jornalismo #Noticias #NoticiasDoDia #Brasil #Mundo #Politica #Economia #Saude #SegurancaPublica #Cultura #Esportes #JornalismoBrasileiro #Informacao #Atualidades #UltimasNoticias #NoticiasBrasil #NoticiasInternacionais #Telejornal #JornalNaTV #AoVivo #Reportagem #Investigacao #SBT #EdicaoCompleta #JornalDaNoite #PrincipaisNoticias #InformacaoDeQualidade #SBTBrasilAoVivo</media:description>
    <media:community>
-    <media:starRating count="84" average="5.00" min="1" max="5"/>
-    <media:statistics views="3794"/>
+    <media:starRating count="146" average="5.00" min="1" max="5"/>
+    <media:statistics views="25098"/>
    </media:community>
   </media:group>
  </entry>
@@ -393,7 +393,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T22:12:56+00:00</published>
-  <updated>2026-11-21T23:26:36+00:00</updated>
+  <updated>2026-11-22T00:21:27+00:00</updated>
   <media:group>
    <media:title>NEWS SÁBADO (3ª EDIÇÃO) | 21/11/2026</media:title>
    <media:content url="https://www.youtube.com/v/9iMrBZBZD9o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -408,8 +408,8 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
 
 #sbtnews #notícias #jornalismo #sbt #sbtjornalismo #newssábado</media:description>
    <media:community>
-    <media:starRating count="154" average="5.00" min="1" max="5"/>
-    <media:statistics views="23106"/>
+    <media:starRating count="158" average="5.00" min="1" max="5"/>
+    <media:statistics views="26992"/>
    </media:community>
   </media:group>
  </entry>
@@ -424,7 +424,7 @@ Acompanhe no site: https://sbtnews.sbt.com.br/
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T21:59:51+00:00</published>
-  <updated>2026-11-21T22:48:22+00:00</updated>
+  <updated>2026-11-22T03:13:44+00:00</updated>
   <media:group>
    <media:title>Copa Sul-Americana: Atlético-MG e Boca Juniors decidem final neste sábado (21) | #SBTBrasil</media:title>
    <media:content url="https://www.youtube.com/v/fQVMDMlwsuM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -437,8 +437,8 @@ Todas as notícias em www.sbtnews.com.br
 
 #sbtnews #notícias #sbtbrasil #AtleticoMG #AtleticoMineiro #Galo #BocaJuniors #Boca #CopaSulAmericana #SulAmericana #FinalDaSulAmericana #Futebol #FutebolSulAmericano #FutebolBrasileiro #Decisão #Final #Barranquilla #Colômbia #EstádioMetropolitano #RobertoMelendez #TítuloContinental #ConquistaInédita #TorcidaDoGalo #MassaAtleticana #DelegaçãoDoGalo #TiagoLeifert #SBT #SBTEsportes #TransmissãoSBT #JogoDecisivo #AtléticoContraBoca #Conmebol #SBTBrasil</media:description>
    <media:community>
-    <media:starRating count="16" average="5.00" min="1" max="5"/>
-    <media:statistics views="1638"/>
+    <media:starRating count="18" average="5.00" min="1" max="5"/>
+    <media:statistics views="19410"/>
    </media:community>
   </media:group>
  </entry>
@@ -453,7 +453,7 @@ Todas as notícias em www.sbtnews.com.br
    <uri>https://www.youtube.com/channel/UC376n347Ob5Lwzq2WGzF1AA</uri>
   </author>
   <published>2026-11-21T21:50:48+00:00</published>
-  <updated>2026-11-21T22:35:43+00:00</updated>
+  <updated>2026-11-22T02:53:24+00:00</updated>
   <media:group>
    <media:title>Flamengo empata com Palmeiras e é bicampeão consecutivo do campeonato Brasileiro | #SBTBrasil</media:title>
    <media:content url="https://www.youtube.com/v/daNQQu9pWxc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -466,8 +466,8 @@ Todas as notícias em www.sbtnews.com.br
 
 #sbtnews #notícias #sbtbrasil #Flamengo #Mengão #NaçãoRubroNegra #BicampeãoBrasileiro #CampeãoBrasileiro #Brasileirão #CampeonatoBrasileiro #FlamengoCampeão #FlamengoBicampeão #RubroNegro #SRN #FutebolBrasileiro #Futebol #Palmeiras #FlamengoEPalmeiras #NubankParque #SamuelLino #JhonArias #Empate #TítuloBrasileiro #ConquistaDoFlamengo #80Pontos #TabelaDoBrasileirão #TorcidaDoFlamengo #Maracanã #Esporte #NotíciasDoFutebol #SBTBrasil #SBTNews #FutebolNacional</media:description>
    <media:community>
-    <media:starRating count="71" average="5.00" min="1" max="5"/>
-    <media:statistics views="6454"/>
+    <media:starRating count="91" average="5.00" min="1" max="5"/>
+    <media:statistics views="8847"/>
    </media:community>
   </media:group>
  </entry>
