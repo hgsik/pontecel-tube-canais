@@ -64,8 +64,8 @@ Spotify: https://open.spotify.com/user/voceadoraoficial
 Twitter: https://x.com/voceadora
 Facebook: https://www.facebook.com/voceadora</media:description>
    <media:community>
-    <media:starRating count="18" average="5.00" min="1" max="5"/>
-    <media:statistics views="361"/>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="536"/>
    </media:community>
   </media:group>
  </entry>
@@ -97,8 +97,8 @@ Spotify: https://open.spotify.com/user/voceadoraoficial
 Twitter: https://x.com/voceadora
 Facebook: https://www.facebook.com/voceadora</media:description>
    <media:community>
-    <media:starRating count="6" average="5.00" min="1" max="5"/>
-    <media:statistics views="1665"/>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="1867"/>
    </media:community>
   </media:group>
  </entry>
@@ -131,7 +131,7 @@ Twitter: https://x.com/voceadora
 Facebook: https://www.facebook.com/voceadora</media:description>
    <media:community>
     <media:starRating count="17" average="5.00" min="1" max="5"/>
-    <media:statistics views="1171"/>
+    <media:statistics views="1181"/>
    </media:community>
   </media:group>
  </entry>
@@ -164,7 +164,7 @@ Twitter: https://x.com/voceadora
 Facebook: https://www.facebook.com/voceadora</media:description>
    <media:community>
     <media:starRating count="5" average="5.00" min="1" max="5"/>
-    <media:statistics views="906"/>
+    <media:statistics views="912"/>
    </media:community>
   </media:group>
  </entry>
@@ -197,7 +197,7 @@ Twitter: https://x.com/voceadora
 Facebook: https://www.facebook.com/voceadora</media:description>
    <media:community>
     <media:starRating count="16" average="5.00" min="1" max="5"/>
-    <media:statistics views="663"/>
+    <media:statistics views="664"/>
    </media:community>
   </media:group>
  </entry>
@@ -256,7 +256,7 @@ Twitter: https://x.com/voceadora
 Facebook: https://www.facebook.com/voceadora</media:description>
    <media:community>
     <media:starRating count="52" average="5.00" min="1" max="5"/>
-    <media:statistics views="2548"/>
+    <media:statistics views="2620"/>
    </media:community>
   </media:group>
  </entry>
@@ -271,7 +271,7 @@ Facebook: https://www.facebook.com/voceadora</media:description>
    <uri>https://www.youtube.com/channel/UCDrzMTEmg_K2F7E4vsgRZqg</uri>
   </author>
   <published>2026-11-16T15:56:39+00:00</published>
-  <updated>2026-11-20T20:24:21+00:00</updated>
+  <updated>2026-11-20T21:54:18+00:00</updated>
   <media:group>
    <media:title>Confira &quot;Faz Um Milagre Em Mim&quot; de Régis Danese em versão instrumental Karaokê. 🎤</media:title>
    <media:content url="https://www.youtube.com/v/E5bRJCvgdgw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -289,7 +289,7 @@ Twitter: https://x.com/voceadora
 Facebook: https://www.facebook.com/voceadora</media:description>
    <media:community>
     <media:starRating count="13" average="5.00" min="1" max="5"/>
-    <media:statistics views="1308"/>
+    <media:statistics views="1312"/>
    </media:community>
   </media:group>
  </entry>
@@ -395,7 +395,7 @@ Facebook: https://www.facebook.com/voceadora
 #IsadoraPompeo #Louvor #Adoração #VocêAdora</media:description>
    <media:community>
     <media:starRating count="71" average="5.00" min="1" max="5"/>
-    <media:statistics views="1134"/>
+    <media:statistics views="1139"/>
    </media:community>
   </media:group>
  </entry>
@@ -496,8 +496,8 @@ Facebook: https://www.facebook.com/voceadora
 
 #IsadoraPompeo #Louvor #Adoração #VocêAdora</media:description>
    <media:community>
-    <media:starRating count="139" average="5.00" min="1" max="5"/>
-    <media:statistics views="3034"/>
+    <media:starRating count="140" average="5.00" min="1" max="5"/>
+    <media:statistics views="3097"/>
    </media:community>
   </media:group>
  </entry>
@@ -680,7 +680,7 @@ Facebook: https://www.facebook.com/voceadora
 #DavisSacer #MarcadaPromessa #Gospel #Karaoke #devocional #devocionaldiario</media:description>
    <media:community>
     <media:starRating count="55" average="5.00" min="1" max="5"/>
-    <media:statistics views="3192"/>
+    <media:statistics views="3197"/>
    </media:community>
   </media:group>
  </entry>
@@ -751,7 +751,7 @@ Facebook: https://www.facebook.com/voceadora
 #RegisDanese #FazUmMilagreEmMim #Gospel #Karaoke #devocional #devocionaldiario</media:description>
    <media:community>
     <media:starRating count="42" average="5.00" min="1" max="5"/>
-    <media:statistics views="2244"/>
+    <media:statistics views="2247"/>
    </media:community>
   </media:group>
  </entry>
@@ -818,7 +818,7 @@ Facebook: https://www.facebook.com/voceadora
 #DaviSacer #VeronicaSacer #SobreAsAguas #Gospel #Karaoke #devocional #devocionaldiario</media:description>
    <media:community>
     <media:starRating count="53" average="5.00" min="1" max="5"/>
-    <media:statistics views="3816"/>
+    <media:statistics views="3823"/>
    </media:community>
   </media:group>
  </entry>
@@ -972,7 +972,7 @@ Facebook: https://www.facebook.com/voceadora
 #DaviSacer #NoCaminhoDoMilagre #Gospel #Karaoke</media:description>
    <media:community>
     <media:starRating count="58" average="5.00" min="1" max="5"/>
-    <media:statistics views="2442"/>
+    <media:statistics views="2446"/>
    </media:community>
   </media:group>
  </entry>
@@ -1038,7 +1038,7 @@ Facebook: https://www.facebook.com/voceadora
 #DaviSacer #VeronicaSacer #TeLouvarei #Gospel #Karaoke #devocional #devocionaldiario</media:description>
    <media:community>
     <media:starRating count="81" average="5.00" min="1" max="5"/>
-    <media:statistics views="4603"/>
+    <media:statistics views="4614"/>
    </media:community>
   </media:group>
  </entry>
