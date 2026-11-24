@@ -11,6 +11,29 @@
  </author>
  <published>2010-11-09T17:51:55+00:00</published>
  <entry>
+  <id>yt:video:v1c5QYHSEkk</id>
+  <yt:videoId>v1c5QYHSEkk</yt:videoId>
+  <yt:channelId>UCXooz9whNJZBRTHi9AqdjPw</yt:channelId>
+  <title>🏛️🥃</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/v1c5QYHSEkk"/>
+  <author>
+   <name>Gusttavo Lima Oficial</name>
+   <uri>https://www.youtube.com/channel/UCXooz9whNJZBRTHi9AqdjPw</uri>
+  </author>
+  <published>2026-11-23T15:52:04+00:00</published>
+  <updated>2026-11-23T18:25:47+00:00</updated>
+  <media:group>
+   <media:title>🏛️🥃</media:title>
+   <media:content url="https://www.youtube.com/v/v1c5QYHSEkk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/v1c5QYHSEkk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="1193" average="5.00" min="1" max="5"/>
+    <media:statistics views="17878"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:SoURv-hrboI</id>
   <yt:videoId>SoURv-hrboI</yt:videoId>
   <yt:channelId>UCXooz9whNJZBRTHi9AqdjPw</yt:channelId>
@@ -21,15 +44,15 @@
    <uri>https://www.youtube.com/channel/UCXooz9whNJZBRTHi9AqdjPw</uri>
   </author>
   <published>2026-11-18T16:13:32+00:00</published>
-  <updated>2026-11-20T00:03:08+00:00</updated>
+  <updated>2026-11-21T21:48:11+00:00</updated>
   <media:group>
    <media:title>Vem ae Buteco 3!!! 🏛️</media:title>
    <media:content url="https://www.youtube.com/v/SoURv-hrboI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
    <media:thumbnail url="https://i4.ytimg.com/vi/SoURv-hrboI/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="949" average="5.00" min="1" max="5"/>
-    <media:statistics views="22690"/>
+    <media:starRating count="969" average="5.00" min="1" max="5"/>
+    <media:statistics views="23386"/>
    </media:community>
   </media:group>
  </entry>
@@ -51,8 +74,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/g-hO90mZBQc/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1162" average="5.00" min="1" max="5"/>
-    <media:statistics views="17492"/>
+    <media:starRating count="1178" average="5.00" min="1" max="5"/>
+    <media:statistics views="17868"/>
    </media:community>
   </media:group>
  </entry>
@@ -74,8 +97,8 @@
    <media:thumbnail url="https://i3.ytimg.com/vi/Fodh8XBJJ8E/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="2708" average="5.00" min="1" max="5"/>
-    <media:statistics views="52218"/>
+    <media:starRating count="2740" average="5.00" min="1" max="5"/>
+    <media:statistics views="52829"/>
    </media:community>
   </media:group>
  </entry>
@@ -97,8 +120,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/o7W5UhLx3Js/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1055" average="5.00" min="1" max="5"/>
-    <media:statistics views="15559"/>
+    <media:starRating count="1059" average="5.00" min="1" max="5"/>
+    <media:statistics views="15692"/>
    </media:community>
   </media:group>
  </entry>
@@ -120,8 +143,8 @@
    <media:thumbnail url="https://i3.ytimg.com/vi/rpXb4owQyZk/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1672" average="5.00" min="1" max="5"/>
-    <media:statistics views="23043"/>
+    <media:starRating count="1681" average="5.00" min="1" max="5"/>
+    <media:statistics views="23210"/>
    </media:community>
   </media:group>
  </entry>
@@ -143,8 +166,8 @@
    <media:thumbnail url="https://i2.ytimg.com/vi/YjSOYMyckW4/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="2530" average="5.00" min="1" max="5"/>
-    <media:statistics views="28513"/>
+    <media:starRating count="2536" average="5.00" min="1" max="5"/>
+    <media:statistics views="28646"/>
    </media:community>
   </media:group>
  </entry>
@@ -166,8 +189,8 @@
    <media:thumbnail url="https://i3.ytimg.com/vi/Ftb52XLdFV8/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1536" average="5.00" min="1" max="5"/>
-    <media:statistics views="23358"/>
+    <media:starRating count="1544" average="5.00" min="1" max="5"/>
+    <media:statistics views="23473"/>
    </media:community>
   </media:group>
  </entry>
@@ -189,8 +212,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/OjSug7Y5MeY/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="985" average="5.00" min="1" max="5"/>
-    <media:statistics views="19390"/>
+    <media:starRating count="987" average="5.00" min="1" max="5"/>
+    <media:statistics views="19484"/>
    </media:community>
   </media:group>
  </entry>
@@ -212,8 +235,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/7g9_jlWT1HU/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="2192" average="5.00" min="1" max="5"/>
-    <media:statistics views="48538"/>
+    <media:starRating count="2203" average="5.00" min="1" max="5"/>
+    <media:statistics views="48661"/>
    </media:community>
   </media:group>
  </entry>
@@ -235,8 +258,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/_9zTCnjLq5o/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="2891" average="5.00" min="1" max="5"/>
-    <media:statistics views="62565"/>
+    <media:starRating count="2898" average="5.00" min="1" max="5"/>
+    <media:statistics views="62695"/>
    </media:community>
   </media:group>
  </entry>
@@ -258,8 +281,8 @@
    <media:thumbnail url="https://i2.ytimg.com/vi/9fyikxQ8A7I/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="2131" average="5.00" min="1" max="5"/>
-    <media:statistics views="51931"/>
+    <media:starRating count="2137" average="5.00" min="1" max="5"/>
+    <media:statistics views="52149"/>
    </media:community>
   </media:group>
  </entry>
@@ -281,8 +304,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/XUKH62xV2mQ/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="2026" average="5.00" min="1" max="5"/>
-    <media:statistics views="51619"/>
+    <media:starRating count="2032" average="5.00" min="1" max="5"/>
+    <media:statistics views="51791"/>
    </media:community>
   </media:group>
  </entry>
@@ -304,8 +327,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/ok1o_RVWvP8/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1303" average="5.00" min="1" max="5"/>
-    <media:statistics views="35277"/>
+    <media:starRating count="1307" average="5.00" min="1" max="5"/>
+    <media:statistics views="35412"/>
    </media:community>
   </media:group>
  </entry>
@@ -327,31 +350,8 @@
    <media:thumbnail url="https://i1.ytimg.com/vi/4i632gfBhi0/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="1993" average="5.00" min="1" max="5"/>
-    <media:statistics views="41036"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:oBe7RFA3-KQ</id>
-  <yt:videoId>oBe7RFA3-KQ</yt:videoId>
-  <yt:channelId>UCXooz9whNJZBRTHi9AqdjPw</yt:channelId>
-  <title>Cê tá com a boca ocupada 🔊</title>
-  <link rel="alternate" href="https://www.youtube.com/shorts/oBe7RFA3-KQ"/>
-  <author>
-   <name>Gusttavo Lima Oficial</name>
-   <uri>https://www.youtube.com/channel/UCXooz9whNJZBRTHi9AqdjPw</uri>
-  </author>
-  <published>2026-10-13T15:33:20+00:00</published>
-  <updated>2026-10-13T15:40:05+00:00</updated>
-  <media:group>
-   <media:title>Cê tá com a boca ocupada 🔊</media:title>
-   <media:content url="https://www.youtube.com/v/oBe7RFA3-KQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/oBe7RFA3-KQ/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="5422" average="5.00" min="1" max="5"/>
-    <media:statistics views="255586"/>
+    <media:starRating count="1996" average="5.00" min="1" max="5"/>
+    <media:statistics views="41134"/>
    </media:community>
   </media:group>
  </entry>
