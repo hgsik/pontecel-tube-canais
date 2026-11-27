@@ -28,8 +28,8 @@
    <media:thumbnail url="https://i3.ytimg.com/vi/F1LuGXyJnWI/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="188" average="5.00" min="1" max="5"/>
-    <media:statistics views="23373"/>
+    <media:starRating count="189" average="5.00" min="1" max="5"/>
+    <media:statistics views="23459"/>
    </media:community>
   </media:group>
  </entry>
@@ -52,7 +52,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="103" average="5.00" min="1" max="5"/>
-    <media:statistics views="4484"/>
+    <media:statistics views="4506"/>
    </media:community>
   </media:group>
  </entry>
@@ -74,8 +74,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/OHt6r6esTIc/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="69" average="5.00" min="1" max="5"/>
-    <media:statistics views="4192"/>
+    <media:starRating count="70" average="5.00" min="1" max="5"/>
+    <media:statistics views="4204"/>
    </media:community>
   </media:group>
  </entry>
@@ -98,7 +98,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="73" average="5.00" min="1" max="5"/>
-    <media:statistics views="2298"/>
+    <media:statistics views="2336"/>
    </media:community>
   </media:group>
  </entry>
@@ -121,7 +121,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="94" average="5.00" min="1" max="5"/>
-    <media:statistics views="16806"/>
+    <media:statistics views="16821"/>
    </media:community>
   </media:group>
  </entry>
@@ -144,7 +144,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="77" average="5.00" min="1" max="5"/>
-    <media:statistics views="6812"/>
+    <media:statistics views="6834"/>
    </media:community>
   </media:group>
  </entry>
@@ -159,7 +159,7 @@
    <uri>https://www.youtube.com/channel/UCZ9yRhwZxdiz6kF09quMZHQ</uri>
   </author>
   <published>2026-11-18T23:57:07+00:00</published>
-  <updated>2026-11-23T23:57:10+00:00</updated>
+  <updated>2026-11-24T08:35:50+00:00</updated>
   <media:group>
    <media:title>EP 92 | Maratona Musical Globoplay | Jogado na rua (Samuel Deolli, Valéria Costa e Marco Aurelio)</media:title>
    <media:content url="https://www.youtube.com/v/V1wmOqTFmQY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -167,7 +167,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="66" average="5.00" min="1" max="5"/>
-    <media:statistics views="2134"/>
+    <media:statistics views="2147"/>
    </media:community>
   </media:group>
  </entry>
@@ -190,7 +190,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="54" average="5.00" min="1" max="5"/>
-    <media:statistics views="1619"/>
+    <media:statistics views="1637"/>
    </media:community>
   </media:group>
  </entry>
@@ -205,7 +205,7 @@
    <uri>https://www.youtube.com/channel/UCZ9yRhwZxdiz6kF09quMZHQ</uri>
   </author>
   <published>2026-11-18T23:56:18+00:00</published>
-  <updated>2026-11-23T23:56:22+00:00</updated>
+  <updated>2026-11-24T12:45:59+00:00</updated>
   <media:group>
    <media:title>EP 92 | Viver Sertanejo | Maratona Musical Globoplay | Pareço um menino (César Augusto e Piska)</media:title>
    <media:content url="https://www.youtube.com/v/na3yi0e13uM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -213,7 +213,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="95" average="5.00" min="1" max="5"/>
-    <media:statistics views="1811"/>
+    <media:statistics views="1840"/>
    </media:community>
   </media:group>
  </entry>
@@ -236,7 +236,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="50" average="5.00" min="1" max="5"/>
-    <media:statistics views="3420"/>
+    <media:statistics views="3426"/>
    </media:community>
   </media:group>
  </entry>
@@ -258,8 +258,8 @@
    <media:thumbnail url="https://i4.ytimg.com/vi/KufZaGJfVo8/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="124" average="5.00" min="1" max="5"/>
-    <media:statistics views="41681"/>
+    <media:starRating count="125" average="5.00" min="1" max="5"/>
+    <media:statistics views="41701"/>
    </media:community>
   </media:group>
  </entry>
@@ -282,7 +282,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="108" average="5.00" min="1" max="5"/>
-    <media:statistics views="2368"/>
+    <media:statistics views="2377"/>
    </media:community>
   </media:group>
  </entry>
@@ -305,7 +305,7 @@
    <media:description></media:description>
    <media:community>
     <media:starRating count="88" average="5.00" min="1" max="5"/>
-    <media:statistics views="1855"/>
+    <media:statistics views="1864"/>
    </media:community>
   </media:group>
  </entry>
@@ -375,7 +375,7 @@ https://x.com/cantordaniel
 https://www.tiktok.com/@cantordaniel</media:description>
    <media:community>
     <media:starRating count="179" average="5.00" min="1" max="5"/>
-    <media:statistics views="3182"/>
+    <media:statistics views="3199"/>
    </media:community>
   </media:group>
  </entry>
@@ -397,8 +397,8 @@ https://www.tiktok.com/@cantordaniel</media:description>
    <media:thumbnail url="https://i2.ytimg.com/vi/aCQYBOv5bTs/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
    <media:community>
-    <media:starRating count="216" average="5.00" min="1" max="5"/>
-    <media:statistics views="12812"/>
+    <media:starRating count="218" average="5.00" min="1" max="5"/>
+    <media:statistics views="12861"/>
    </media:community>
   </media:group>
  </entry>
