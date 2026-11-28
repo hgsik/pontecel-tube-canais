@@ -11,6 +11,49 @@
  </author>
  <published>2021-10-13T07:10:08+00:00</published>
  <entry>
+  <id>yt:video:Cs5w7RWuvKw</id>
+  <yt:videoId>Cs5w7RWuvKw</yt:videoId>
+  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
+  <title>A INTELIGÊNCIA ARTIFICIAL FINALMENTE RESOLVEU A GRAVIDADE QUÂNTICA?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Cs5w7RWuvKw"/>
+  <author>
+   <name>SpaceToday</name>
+   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
+  </author>
+  <published>2026-11-28T02:44:42+00:00</published>
+  <updated>2026-11-28T02:44:44+00:00</updated>
+  <media:group>
+   <media:title>A INTELIGÊNCIA ARTIFICIAL FINALMENTE RESOLVEU A GRAVIDADE QUÂNTICA?</media:title>
+   <media:content url="https://www.youtube.com/v/Cs5w7RWuvKw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Cs5w7RWuvKw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Uma inteligência artificial resolveu a gravidade quântica? Em 25 de novembro de 2026, o físico Venkatesa Chandrasekaran publicou uma proposta de 83 páginas para aproximar a relatividade geral da mecânica quântica. Ele conta que passou meses trabalhando com o GPT-6 Astra nos cálculos e nas demonstrações do artigo. A história começa com uma ideia que qualquer um pode visualizar. O que um pulso de luz consegue nos dizer sobre o espaço por onde ele passou?
+
+Imagine que você acende uma lanterna e alguém ao longe devolve o sinal com um espelho. Entre o instante em que a luz sai e aquele em que ela volta, existe um limite para os lugares por onde a mensagem poderia ter passado. Se o espelho estivesse além desse limite, a resposta chegaria tarde demais. A região do espaço-tempo que pode participar dessa troca recebe o nome de diamante causal. Suas fronteiras acompanham os caminhos possíveis da luz. E, como a gravidade curva esses caminhos, a própria luz carrega informação sobre a geometria que o físico quer descrever.
+
+Por que isso importa? Na relatividade geral de Einstein, o espaço-tempo pode se curvar, e essa curvatura orienta tanto a órbita de Mercúrio quanto o percurso de um raio de luz. Já nos cálculos quânticos que usamos para descrever partículas, em geral começamos com uma geometria definida. Ela permite dizer onde ocorreu uma interação e quanto tempo separa dois acontecimentos. Agora, tente fazer a mesma coisa quando a própria régua pode flutuar. É essa dificuldade que volta a aparecer quando perguntamos o que acontece nas profundezas de um buraco negro ou nos primeiros instantes do universo.
+
+Chandrasekaran propõe juntar diamantes causais pelas bordas e somar as geometrias possíveis. A ordem das operações faz diferença. Num dos cálculos estudados, que envolve dois grávitons, o resultado permanece finito quando a soma é feita antes de certas aproximações. Um gráviton seria para o campo gravitacional o que o fóton é para o campo eletromagnético. A conta é interessante porque permite investigar de onde vem um infinito que aparece no tratamento usual. Resta descobrir até onde esse resultado se estende.
+
+O artigo também reencontra uma das ideias mais surpreendentes de Jacob Bekenstein e Stephen Hawking. A entropia de um buraco negro é proporcional à área do horizonte de eventos. Pense na diferença entre medir quantos litros cabem numa esfera e calcular quanto material seria preciso para revesti-la. Para a entropia, a medida decisiva é a segunda. Segundo o autor, a proposta recupera essa relação, uma pequena correção calculada por Ashoke Sen e, no regime de baixas energias, as equações de Einstein.
+
+Onde entra a inteligência artificial? Nos agradecimentos, o físico relata que a colaboração com o modelo envolveu cerca de 400 milhões de tokens, os fragmentos de texto que a máquina processa. Ele é o único autor do trabalho. O artigo deixa em aberto quais etapas tiveram participação do modelo e como cada uma foi conferida. Imagine outro físico diante dessas páginas, com lápis e papel. Se uma conclusão depende de uma aproximação feita vinte páginas antes, ele precisa voltar àquele passo e verificar em que condições a aproximação vale.
+
+Há ainda uma distância entre recuperar a física conhecida e descobrir algo novo sobre a natureza. A proposta foi apresentada como preprint, trata da gravidade sem matéria e ainda precisa produzir uma previsão que possa ser confrontada com observações. Neste vídeo do Space Today, vamos percorrer esse caminho da primeira troca de sinais de luz até a questão que o artigo deixa em aberto. Que medida poderia revelar se o universo de fato funciona assim?
+
+Você confiaria numa teoria física desenvolvida em parceria com uma inteligência artificial? Conte nos comentários.
+
+Referência  
+Venkatesa Chandrasekaran, “An algebraic quantization of gravity from the null cone”.  
+https://arxiv.org/abs/2611.34924
+
+#GravidadeQuântica #InteligênciaArtificial #BuracosNegros #RelatividadeGeral #StephenHawking #Einstein #SpaceToday</media:description>
+   <media:community>
+    <media:starRating count="853" average="5.00" min="1" max="5"/>
+    <media:statistics views="17549"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:U0cGziRoyDE</id>
   <yt:videoId>U0cGziRoyDE</yt:videoId>
   <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
@@ -52,8 +95,8 @@ Agência Espacial Europeia (ESA), 25 de novembro de 2026. [Hera reveals stadium-
 
 #SpaceToday #MissãoHera #DART #Dimorphos #Didymos #DefesaPlanetária #Asteroides #ESA #NASA #Astronomia</media:description>
    <media:community>
-    <media:starRating count="2430" average="5.00" min="1" max="5"/>
-    <media:statistics views="71282"/>
+    <media:starRating count="2748" average="5.00" min="1" max="5"/>
+    <media:statistics views="97987"/>
    </media:community>
   </media:group>
  </entry>
@@ -103,8 +146,8 @@ https://www.iflscience.com/fcc-approves-musks-plan-for-a-million-satellites-as-e
 
 #Starmind #ElonMusk #SpaceX #Astronomia #InteligenciaArtificial #Satelites #SpaceToday #Ciencia #Tecnologia #LixoEspacial #SindromeDeKessler #PoluicaoLuminosa #Universo #ExploracaoEspacial #Starlink</media:description>
    <media:community>
-    <media:starRating count="2113" average="5.00" min="1" max="5"/>
-    <media:statistics views="48174"/>
+    <media:starRating count="2262" average="5.00" min="1" max="5"/>
+    <media:statistics views="58784"/>
    </media:community>
   </media:group>
  </entry>
@@ -143,8 +186,8 @@ Wolf, J. et al. (2026). Euclid: Discovery of a quasar at z = 8.13 hosting a 360-
 
 #SpaceToday #Astronomia #BuracosNegros #Quasar #Euclid #JamesWebb #UniversoPrimordial #Cosmologia</media:description>
    <media:community>
-    <media:starRating count="1115" average="5.00" min="1" max="5"/>
-    <media:statistics views="23784"/>
+    <media:starRating count="1124" average="5.00" min="1" max="5"/>
+    <media:statistics views="24005"/>
    </media:community>
   </media:group>
  </entry>
@@ -159,7 +202,7 @@ Wolf, J. et al. (2026). Euclid: Discovery of a quasar at z = 8.13 hosting a 360-
    <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
   </author>
   <published>2026-11-24T00:51:26+00:00</published>
-  <updated>2026-11-24T13:06:40+00:00</updated>
+  <updated>2026-11-26T22:05:19+00:00</updated>
   <media:group>
    <media:title>SERÁ QUE DESCOBRIMOS UM NOVO PLANETA NO SISTEMA SOLAR? E NÃO É O PLANETA 9!</media:title>
    <media:content url="https://www.youtube.com/v/kWu9L5E2bPw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -194,8 +237,8 @@ Na sua opinião, existe outro planeta esperando para ser encontrado além de Net
 
 #Astronomia #SistemaSolar #PlanetaX2 #PlanetaNove #Espaço</media:description>
    <media:community>
-    <media:starRating count="3785" average="5.00" min="1" max="5"/>
-    <media:statistics views="88934"/>
+    <media:starRating count="3795" average="5.00" min="1" max="5"/>
+    <media:statistics views="89434"/>
    </media:community>
   </media:group>
  </entry>
@@ -240,8 +283,8 @@ https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-lays-th
 
 Imagens: ESA/Euclid/Euclid Consortium/NASA, processamento por J.-C. Cuillandre e E. Bertin. Licença CC BY-SA 3.0 IGO.</media:description>
    <media:community>
-    <media:starRating count="2107" average="5.00" min="1" max="5"/>
-    <media:statistics views="45122"/>
+    <media:starRating count="2112" average="5.00" min="1" max="5"/>
+    <media:statistics views="45310"/>
    </media:community>
   </media:group>
  </entry>
@@ -282,8 +325,8 @@ No vídeo, eu reconstruo o Voo 15 da decolagem à captura. A gente passa pelo cl
 
 Cerca de **3.600 caracteres**, com base no roteiro do Voo 15. Roteiro_Space_Today_Starship_Vo…</media:description>
    <media:community>
-    <media:starRating count="2687" average="5.00" min="1" max="5"/>
-    <media:statistics views="58446"/>
+    <media:starRating count="2688" average="5.00" min="1" max="5"/>
+    <media:statistics views="58520"/>
    </media:community>
   </media:group>
  </entry>
@@ -346,8 +389,8 @@ Valley, J. W. et al. Contrib. Mineral. Petrol. 150, 561-580 (2005).
 
 Liu, D. Y., Nutman, A. P., Compston, W., Wu, J. S. &amp; Shen, Q. H. Geology 20, 339-342 (1992).</media:description>
    <media:community>
-    <media:starRating count="3282" average="5.00" min="1" max="5"/>
-    <media:statistics views="77988"/>
+    <media:starRating count="3286" average="5.00" min="1" max="5"/>
+    <media:statistics views="78088"/>
    </media:community>
   </media:group>
  </entry>
@@ -385,8 +428,8 @@ Para a China, o resultado amplia as perspectivas de exploração em uma região 
 
 Neste vídeo, vamos entender como essa descoberta foi feita, por que as rochas vulcânicas chamaram a atenção e como a sísmica 3D ajuda a revelar o que está escondido sob o mar.</media:description>
    <media:community>
-    <media:starRating count="23627" average="5.00" min="1" max="5"/>
-    <media:statistics views="778989"/>
+    <media:starRating count="23631" average="5.00" min="1" max="5"/>
+    <media:statistics views="779147"/>
    </media:community>
   </media:group>
  </entry>
@@ -422,8 +465,8 @@ Existe ainda uma alternativa que os pesquisadores precisam considerar. A gravida
 
 Neste vídeo, vamos entender o que o Webb e o Gemini revelaram, como os quasares funcionam e por que encontrar dois tão próximos no Universo jovem importa. Essa dupla pode ajudar a conectar o crescimento das primeiras galáxias à formação de seus buracos negros gigantes. Uma investigação sobre como o cosmos construiu suas primeiras estruturas e acendeu alguns de seus faróis mais poderosos.</media:description>
    <media:community>
-    <media:starRating count="1899" average="5.00" min="1" max="5"/>
-    <media:statistics views="43283"/>
+    <media:starRating count="1900" average="5.00" min="1" max="5"/>
+    <media:statistics views="43316"/>
    </media:community>
   </media:group>
  </entry>
@@ -462,8 +505,8 @@ Ao longo do vídeo, você vai ver o que o Webb mediu, como a simulação tratou 
 Artigo de Whalen e colegas publicado no Astrophysical Journal Letters
 https://doi.org/10.3847/2041-8213/aeb37a</media:description>
    <media:community>
-    <media:starRating count="6787" average="5.00" min="1" max="5"/>
-    <media:statistics views="216143"/>
+    <media:starRating count="6794" average="5.00" min="1" max="5"/>
+    <media:statistics views="216491"/>
    </media:community>
   </media:group>
  </entry>
@@ -509,8 +552,8 @@ Qual dessas notícias mais chamou sua atenção? Comente, deixe seu like, inscre
 
 #SpaceToday #Astronomia #Espaço #Ciência #JamesWebb #VeraRubin #Hera</media:description>
    <media:community>
-    <media:starRating count="2903" average="5.00" min="1" max="5"/>
-    <media:statistics views="71231"/>
+    <media:starRating count="2905" average="5.00" min="1" max="5"/>
+    <media:statistics views="71408"/>
    </media:community>
   </media:group>
  </entry>
@@ -556,8 +599,8 @@ https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-21-0
 
 #SpaceToday #LHC #CERN #QuintaDimensão #FísicaDePartículas</media:description>
    <media:community>
-    <media:starRating count="6450" average="5.00" min="1" max="5"/>
-    <media:statistics views="210263"/>
+    <media:starRating count="6458" average="5.00" min="1" max="5"/>
+    <media:statistics views="210561"/>
    </media:community>
   </media:group>
  </entry>
@@ -606,8 +649,8 @@ https://doi.org/10.3390/universe12070193
 
 #SpaceToday #Universo #Cosmologia #MateriaEscura #EnergiaEscura</media:description>
    <media:community>
-    <media:starRating count="2744" average="5.00" min="1" max="5"/>
-    <media:statistics views="59736"/>
+    <media:starRating count="2745" average="5.00" min="1" max="5"/>
+    <media:statistics views="59765"/>
    </media:community>
   </media:group>
  </entry>
@@ -670,74 +713,8 @@ O que você achou dessa descoberta incrível? Será que as encostas de Alba Mons
 
 #Marte #Astronomia #Ciencia #Espaço #Vulcoes #Astrobiologia #ExoMars #ESA #SistemaSolar #VidaEmMarte #ExploraçãoEspacial #Universo</media:description>
    <media:community>
-    <media:starRating count="2261" average="5.00" min="1" max="5"/>
-    <media:statistics views="43680"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:4dQIjpzEO3M</id>
-  <yt:videoId>4dQIjpzEO3M</yt:videoId>
-  <yt:channelId>UC_Fk7hHbl7vv_7K8tYqJd5A</yt:channelId>
-  <title>BATEMOS NA PORTA DO ZEPTOVERSO!!! E AGORA?</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=4dQIjpzEO3M"/>
-  <author>
-   <name>SpaceToday</name>
-   <uri>https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A</uri>
-  </author>
-  <published>2026-11-04T02:12:59+00:00</published>
-  <updated>2026-11-13T09:26:07+00:00</updated>
-  <media:group>
-   <media:title>BATEMOS NA PORTA DO ZEPTOVERSO!!! E AGORA?</media:title>
-   <media:content url="https://www.youtube.com/v/4dQIjpzEO3M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/4dQIjpzEO3M/hqdefault.jpg" width="480" height="360"/>
-   <media:description>AS MATRÍCULAS ESTÃO ABERTAS!!! VEM ESTUDAR ASTRONOMIA COMIGO NA ACADEMY SPACE!!!
-
-https://lp.academyspace.com.br/
-
-
-ZEPTOVERSO: UMA PISTA RARÍSSIMA PARA INVESTIGAR O INVISÍVEL
-
-Uma partícula nasce numa colisão, vive por um instante quase inconcebível e desaparece. Mas existe um final tão raro que os físicos passaram mais de quarenta anos tentando encontrá-lo: um méson B zero se transforma em um múon e um antimúon. A previsão é de aproximadamente uma ocorrência a cada dez bilhões de decaimentos desse tipo de partícula.
-
-Agora, o experimento LHCb apresentou evidência desse processo usando dados de um único experimento. O resultado nos aproxima de um teste sensível das leis da natureza. E aqui começa a parte mais interessante: ele concorda com o Modelo Padrão. Então por que os cientistas estão tão empolgados?
-
-O QUE É O ZEPTOVERSO?
-
-O nome evoca a fronteira das distâncias extremamente pequenas. Um zeptômetro equivale a 10⁻²¹ metro: um trilionésimo de um bilionésimo de metro. Não estamos falando de um universo paralelo, de uma dimensão secreta ou de um portal aberto pelo acelerador. O zeptoverso é uma maneira de apresentar a investigação de interações associadas a escalas muito além da nossa experiência cotidiana.
-
-O LHCb não fotografou uma partícula nessa escala. Sua estratégia é indireta: medir o comportamento de partículas conhecidas e procurar efeitos de outras que talvez sejam pesadas demais para serem produzidas diretamente no LHC. É investigar uma presença desconhecida por aquilo que ela poderia alterar.
-
-POR QUE UM DECAIMENTO TÃO RARO IMPORTA?
-
-O Modelo Padrão descreve as partículas elementares conhecidas e suas interações fortes, fracas e eletromagnéticas. Apesar de seu sucesso, não explica satisfatoriamente a matéria escura nem o desequilíbrio entre matéria e antimatéria no universo. Esses problemas motivam a busca por uma descrição melhor da realidade.
-
-O méson B zero, também chamado B d, contém um quark e um antiquark dos tipos beauty e down. Seu decaimento em dois múons de cargas opostas depende de interações quânticas que tornam o processo extremamente improvável. Contribuições de partículas hipotéticas poderiam mudar sua frequência. Medir essa taxa é, portanto, colocar a teoria diante de uma pergunta muito precisa.
-
-COMO SE ENCONTRA UM SINAL EM DEZ BILHÕES?
-
-A equipe analisou colisões de prótons registradas em 2024 e 2025 e combinou os resultados com dados anteriores, de 2011 a 2018. A atualização do detector ampliou a coleta e melhorou a identificação de partículas. Técnicas de aprendizado de máquina ajudaram a selecionar candidatos e reduzir o fundo: outros processos capazes de imitar o sinal procurado.
-
-Os pesquisadores reconstruíram a massa invariante dos pares de múons, ajustaram modelos de sinal e fundo e usaram decaimentos conhecidos para calibrar a análise. Também mantiveram escondida a região onde esperavam o sinal até finalizar os métodos. Essa análise cega reduz o risco de favorecer involuntariamente a resposta desejada.
-
-EVIDÊNCIA NÃO É DESCOBERTA DE NOVA FÍSICA
-
-Os dados novos alcançaram três sigma; a combinação com os anteriores chegou a 3,2 sigma. Na física de partículas, esse patamar permite falar em evidência, mas fica abaixo dos cinco sigma normalmente exigidos para uma observação estabelecida. Além disso, a taxa medida concorda com o Modelo Padrão dentro das incertezas.
-
-Não houve detecção de matéria escura nem descoberta de uma nova partícula. No anúncio de novembro de 2026, o trabalho ainda não havia passado por revisão por pares. A conquista é obter uma pista experimental que pode ser confirmada e medida com maior precisão, restringindo possibilidades de novas interações.
-
-Assista ao vídeo e acompanhe essa investigação em detalhes. Inscreva-se no canal e conte nos comentários: o que mais surpreende você, a raridade desse processo ou investigar partículas sem produzi-las diretamente?
-
-As imagens do vídeo são visualizações ilustrativas geradas por IA, não registros reais de colisões.
-
-Fontes:
-https://www.cam.ac.uk/stories/zeptoverse
-https://arxiv.org/abs/2611.00230
-
-#Zeptoverso #CERN #LHCb #FisicaDeParticulas</media:description>
-   <media:community>
-    <media:starRating count="14525" average="5.00" min="1" max="5"/>
-    <media:statistics views="713556"/>
+    <media:starRating count="2262" average="5.00" min="1" max="5"/>
+    <media:statistics views="43693"/>
    </media:community>
   </media:group>
  </entry>
